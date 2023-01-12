@@ -1,0 +1,453 @@
+"(Or, hold 'Enter' to start - Hold 'Esc' to skip)"
+- Automatically stops listening
+- Includes grammar
+- Lower accuracy
+- Much higher accuracy
+- Multi-language support
+- Requires 'Chrome' to be installed
+1. Never launch OVR Toolkit through Oculus Home -This may launch the application incorrectly. 2. Please refer to the 'Oculus' page on our Wiki (by the button above) if OVR Toolkit doesn't appear in your games due to the game not running through OpenVR. 3. Please note that running games through OpenVR may reduce their performance as you will be rendering SteamVR and the Oculus compositor. This is unavoidable with any overlay application on Steam! Don't hesitate to join our Discord for help! :)
+Accent brightness
+Accent colour
+Add Hotkey
+Add Module
+Add key press
+Add macro
+Add new module
+Admin check failed
+Advanced
+Alarm
+Alarm cancelled
+Alarm set:
+Alt tab on changing windows:
+An event you're interested in is starting in under 1 hour!
+An event you're interested in is starting in under 30 minutes!
+An event you're interested in is starting! Open Edit Mode for join instructions.
+Angle snapping
+"Angle snapping, face headset, automatic curving"
+Are you sure?
+Attach fpsVR
+Attach to HMD
+Attached
+Author
+Auto performance adjustments:
+Automatically alt tab into games:
+Automatically curve windows
+Back
+Background
+"Background image, keyboard language, Steam Workshop, accent colours"
+Backspace
+Backwards
+Base Author
+Best effort (Intensive!)
+Best effort can only be used with desktop captures!
+Best effort cannot be used on monitors not connected to your main GPU!
+Block Input to other applications
+Block cursor input
+Block input
+Bottom
+Brightness Range
+Bring to me
+Calibrating battery monitoring
+Cancel
+Cancel alarm through the Wristwatch clock tab.
+Cancel timer through the Wristwatch clock tab.
+Category
+Change profile
+Changing the hiding angle is only possible when the overlay is attached to a device.
+Charging
+Chroma key
+Chroma key enabled
+Clean install
+Click 'Set Contents' to change what a window is displaying.
+Click 'Spawn Window' to create a new window.
+Click hotkeys to remove
+Click or press 'R' to search again.
+Click the gear icon to open Edit Mode
+Close
+Close 'Edit Mode' again by clicking the gear icon.
+Close 'Edit Mode' again by pressing F8.
+Close all windows
+Close the dashboard to use OVR Toolkit
+"Closing 'Edit Mode' will only close the menu. To toggle your created windows on and off without entering or exiting Edit Mode, press F7."
+"Closing 'Edit Mode' will toggle off your windows, however, you can keep them visible by enabling the 'Keep Visible' option in 'Window Settings'."
+"Compact UI, legacy Edit Mode, resize menu"
+Configure wrist overlay
+Confirm
+"Connection lost, please restart OVR Toolkit!"
+Continuous voice recognition
+Crashed? Try this:
+Create
+Create Event
+Credits:
+Crop window
+Current windows
+Curve
+Curved overlays
+Curved overlays are only available when a window isn't attached to a controller
+Custom icons
+Customise
+Customize background
+Cycle Profile Backwards
+Cycle Profile Forward
+Delete
+Delete event?
+Delete preset
+Description
+"Description too long, please limit to 3000 characters."
+Desktop
+Disable GPU Capture
+Disable sound
+Display RAM instead of VRAM
+Display remaining battery in minutes
+Do you want to start this application?
+Don't show again
+Don't use Steam or Discord? Send me an e-mail at: curtis@ovrtoolkit.co.uk
+Down
+Drop a window on the attach point on a hand to attach a window to your hand.
+Drop a window on the detach point to detatch the window from your hand.
+Eco Mode
+Eco Mode is still enabled. Disable it in 'Window Settings' to keep higher frame rate.
+Edit Mode
+"Edit Mode allows you to create new windows, move them, and select what they display."
+Edit controller bindings
+Edit hotkeys
+Educational
+Enable Performance Mode
+Enable UI moving
+Enable rotation lock
+Enable swipe typing
+Enable window docking
+Enable word suggestions
+Enable wrist UI moving
+Enable wrist overlay
+"Enable, switch hands, change modules, resize overlay"
+End
+Enter the 'Window List' menu and select 'Spawn Window'.
+Enter the 'Window Settings' menu and select 'Move Window'.
+Enter the 'Window Settings' menu and select 'Set Contents' to change what a window displays.
+Event Name:
+Event Starting
+Events
+"Events doesn't support this game yet, sorry!"
+Exercise
+External Link:
+Fade out
+Find new content
+Find new keyboards
+Fix
+Fix startup
+Flip Horizontal
+Flip Vertical
+Force GPU Capture
+Forward
+Framerate
+Full
+Game
+Game input blocking
+Games
+Get content
+Global Settings
+Hand tracking:
+Head gaze
+Hide keyboard controls
+Hide when not looking at window
+Hide when past hide distance
+Hide wrist overlay when not visible
+High priority process:
+Hold 'A' near a window to move it. (Optionally use 'Grip')
+Hold 'Grip' near a window to move it.
+Holding 'Shift' will move windows faster. Holding 'Alt' will move windows slower.
+Home
+How to
+How to enable
+"How to use: Use the 'Spawn Mask' button to create objects that will hide parts of the window. Move masks around by holding the Trigger on them and dragging. Masks will show as white whilst in the cropping menu, but will be see-through once you close the menu."
+Hue Range
+I understand
+Icon
+Icon must be 100x100 pixels!
+Ignore
+Important information for Oculus users
+Individual
+Input
+Interested
+Interface
+Invalid Join Link! Maybe the event host didn't set one?
+"Invalid event category, please select one!"
+"Invalid event description, must not be empty!"
+"Invalid event join instructions, must not be empty!"
+"Invalid event name, must not be empty!"
+"Invalid event time, must be within 14 days!"
+"Invalid event time, must not be in the past!"
+It may take some time for minutes remaining to appear!
+Join
+"Join Instructions too long, please limit to 400 characters."
+Join Instructions:
+Join URL (Optional)
+Keep holding grip to move
+Keep visible
+Keyboard
+Keyboard controls
+Known Applications
+Language selection is not possible for 'Speech Proxy'.
+Larger
+"Later, you can click 'Edit Shortcuts' to create shortcuts for displaying specific applications."
+Left
+Left click
+Legacy Edit Mode
+Loading...
+Look at your left wrist
+Looks like there's no events at the moment! Maybe create one?
+Low Battery
+Macros
+Main
+Maintain width
+Master
+Media Applications
+Media controls
+Media profanity filter
+Menu Back
+Menu Controls
+Menu Down
+Menu Left
+Menu Right
+Menu Select
+Menu Up
+Menu Visible
+Minimize menu on open
+Minimize on startup:
+Misc
+More will add to this menu as you use different media applications.
+Mouse smoothing
+Move all windows
+Move delay
+Move window
+Name
+"Name too long, please limit to 60 characters."
+"Navigate the menu by using the arrow keys, Enter, and Backspace."
+Navigation
+Need help? Position the window so that the center of it is close to the attach point. The circle around the attach point will shrink as you move the window closer.
+Next
+Night light
+Night light will enable with the Windows night light
+No
+"No events found, maybe create one?"
+None
+Not Interested
+Not starting?
+"Not using VR controllers? When in VR, press F8!"
+Note3
+Notifications Enabled
+Notifications opacity
+Notifications size
+"OVR Toolkit is starting, please wait!"
+OVR Toolkit isn't running as admin! The program may not function correctly.
+Okay
+"Once selected, release the 'Ctrl' key to start moving the window."
+Only block input in Edit Mode
+Opacity
+Open link
+Open log folder
+Opened link in your browser.
+Orientation
+Overlay Quality
+Overlay quality is determined automatically by SteamVR with no user or developer option to change it.
+Overlay quality reduced - Click for more details
+Performance stats
+Persist between profiles
+Pick colour
+Picking...
+Pin window
+Play Pause
+Play music in loading screen
+Player Limit
+Player limit too high! 150 max.
+Player limit too low!
+Please attach the 'Player' and 'Player-Last' log files from the following folder to help fix your issue:
+Please do not hesitate to join us on Discord to provide feedback or suggestions to improve the experience!
+"Please join us on Discord for the fastest response, or, post on the Steam Discussions!"
+"Please join us on Discord, or, check out the video tutorial to learn more about using OVR Toolkit."
+Please put your headset on to start using OVR Toolkit!
+Please restart SteamVR!
+Presets
+Press 'Enter' to close the tutorial.
+Press Backspace to finish
+Press Backspace to stop moving.
+"Press Delete to delete a window, Insert to bring the window into view."
+Press F to favourite
+Press F8 key
+Previous
+Profile switcher
+Profiles
+Quit
+Re-center
+Re-center window
+"Re-center window will position windows relative to your headset each time you toggle your overlays, useful when using 'playspace mover' applications."
+Ready to use
+Rebind
+Recenter snap angle
+Recenter windows
+Refresh list
+Remember UI minimized state
+Report bug
+Requires manual setup
+Reset
+Reset UI location
+Reset UI position
+Reset keyboard position
+Reset settings
+Reset to default keyboard
+Reset tutorial
+Resize
+Resize menu
+Resize window
+Resize wrist overlay
+Restart Application
+Right
+Right click
+Rotate left
+Rotate right
+Running
+Saturation Range
+Save
+Save changes
+Saved
+Scroll down
+Scroll up
+Search
+Select
+Select Icon
+Select Media Applications
+Select Window
+Select a window
+Select a window by clicking on it to use Window Settings!
+Select content
+Select keyboard
+Select microphone
+Select wrist watch size
+Select your preffered wrist watch size
+Selected file is not a PNG file!
+Set as default
+Set contents
+Settings
+Setup hotkeys for faster window switching!
+Setup wrist macros
+Show and hide your windows by double pressing both 'A' buttons.
+Show and hide your windows by double pressing both 'Grip' buttons.
+Show events on game start
+Show in front
+Show playing media in Chatbox
+Side-by-Side 3D Crossed
+Side-by-Side 3D Parralel
+Simple
+Skip tutorial
+Smaller
+Social
+"Sounds, word suggestions, rotation lock, microphone"
+Spawn Mask
+Spawn Window
+Spawn another window from the 'Window List' menu.
+Spawn new window
+Speech API
+Speech language
+Start
+Start a game to see Events!
+Start application
+Start tutorial
+Started:
+Startup complete! You can now use OVR Toolkit!
+Startup errors
+Startup messages
+Steam Workshop
+Subscribe
+Subscribed Items
+Switch Profile
+Switch Window
+Switch menu hand
+Switch overlay hand
+Tab into game
+Tab out on window toggle:
+Thank you for choosing OVR Toolkit!
+The currently selected window is shown by a yellow border around it.
+"The tutorial is now complete, we hope you enjoy your time using OVR Toolkit!"
+There are upcoming events for this game!
+These will appear on your wristwatch in VR
+This fix will link your SteamVR Resolution to your overlay supersampling. (Up to 150 )
+"This will set the default settings used on all newly spawned windows, are you sure?"
+This workaround will trick SteamVR into thinking your PC is faster than it is so the overlay resolution will be increased.
+Those are the basics of using OVR Toolkit! Find more info on our wiki or on our Discord!
+Tilt
+Tilt Back
+Tilt Down
+Tilt Forward
+Tilt Left
+Tilt Right
+Tilt Up
+Time visible
+Timer
+Timer cancelled
+Timer set
+"To configure, recenter your view in game then open Edit Mode"
+"To move windows, hold the grip button near them whilst in 'Edit Mode'."
+"To resize a window, hold both 'A' buttons and move your hands apart or together."
+"To resize a window, hold both 'Grip' buttons and move your hands apart or together."
+"To select which window you are editing open 'Window List', navigate to the window you would like to edit, then press 'Enter'."
+To toggle 'Edit Mode' double press both grip buttons at the same time.
+Toggle
+Toggle 'Simulator Mode' menu:
+Toggle Windows
+Top
+"Touchscreen input, touchpad scrolling, grip resizing"
+TouchscreenOff
+TouchscreenOn
+Tracked device
+Trigger down
+Trigger up
+Tutorial
+Tutorial finished
+Unsubscribe
+Unsupported
+Up
+Upcoming Event
+Upcoming Events
+Update Event
+Use 24 hour time
+"Use arrow keys to navigate the menu. Enter to select, Backspace to go back."
+Use both touchpads
+Use compact UI
+Use grip window resizing
+Use media keys
+Use right arrow key to access favourite windows.
+Use the on-screen movement controls to manipulate the window's position.
+Use touchpad resizing
+Use touchpad scrolling
+Use touchpad window moving
+Use touchscreen input
+VIVE Wireless stats
+VR Controllers
+Vertical
+Video guides:
+Visibility
+Voice Input
+"Voice recognition can be stopped and started by the voice input bar on top of the keyboard. For VRChat Chatbox output, ensure you click the 'VRC' button!"
+Volume
+Welcome to OVR Toolkit!
+"Whilst holding a window, push up or down on the Joystick to push the window forwards or backwards."
+"Whilst holding a window, push up or down on the Trackpad to push the window forwards or backwards."
+Wiki
+Window Cropping
+Window List
+Window Settings
+Window docking
+Window movement
+Window moving when not in Edit Mode
+Window selection
+Windows
+Windows face headset
+Windows notifications
+Workshop Subscriptions
+Would you like to take a short tutorial on how it works?
+Wristwatch
+Yes
+You can keep windows visible by clicking the 'Pin' icon below them when in 'Edit Mode'.
+Your SteamVR Resolution will be linked to your overlay resolution. (Up to 150 )
+"Your event starts in 5 minutes, please ensure your Join Instructions are set!"

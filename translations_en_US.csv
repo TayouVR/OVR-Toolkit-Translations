@@ -1,0 +1,478 @@
+Keys,English
+"(Or, hold 'Enter' to start - Hold 'Esc' to skip)","(Or, hold 'Enter' to start - Hold 'Esc' to skip)"
+- Automatically stops listening,- Automatically stops listening
+- Includes grammar,- Includes grammar
+- Lower accuracy,- Lower accuracy
+- Much higher accuracy,- Much higher accuracy
+- Multi-language support,- Multi-language support
+- Requires 'Chrome' to be installed,- Requires 'Chrome' to be installed
+1. Never launch OVR Toolkit through Oculus Home -This may launch the application incorrectly. 2. Please refer to the 'Oculus' page on our Wiki (by the button above) if OVR Toolkit doesn't appear in your games due to the game not running through OpenVR. 3. Please note that running games through OpenVR may reduce their performance as you will be rendering SteamVR and the Oculus compositor. This is unavoidable with any overlay application on Steam! Don't hesitate to join our Discord for help! :),"1. Never launch OVR Toolkit through Oculus Home -This may launch the application incorrectly.
+
+2. Please refer to the 'Oculus' page on our Wiki (by the button above) if OVR Toolkit doesn't appear in your games due to the game not running through OpenVR.
+
+3. Please note that running games through OpenVR may reduce their performance as you will be rendering SteamVR and the Oculus compositor. This is unavoidable with any overlay application on Steam!
+
+Don't hesitate to join our Discord for help! :)"
+Accent brightness,Accent brightness
+Accent colour,Accent colour
+Add Hotkey,Add hotkey
+Add Module,Add Module
+Add key press,Add key press
+Add macro,Add macro
+Add new module,Add new module
+Admin check failed,Admin check failed
+Advanced,Advanced
+Alarm,Alarm
+Alarm cancelled,Alarm cancelled
+Alarm set:,Alarm set:
+Alt tab on changing windows:,Alt tab on changing windows:
+An event you're interested in is starting in under 1 hour!,An event you're interested in is starting in under 1 hour!
+An event you're interested in is starting in under 30 minutes!,An event you're interested in is starting in under 30 minutes!
+An event you're interested in is starting! Open Edit Mode for join instructions.,An event you're interested in is starting! Open Edit Mode for join instructions.
+Angle snapping,Angle snapping
+"Angle snapping, face headset, automatic curving","Angle snapping, face headset, automatic curving"
+Are you sure?,Are you sure?
+Attach fpsVR,Attach fpsVR
+Attach to HMD,Attach to HMD
+Attached,Attached
+Author,Author
+Auto performance adjustments:,Auto performance adjustments:
+Automatically alt tab into games:,Automatically alt tab into games:
+Automatically curve windows,Automatically curve windows
+Back,Back
+Background,Background:
+"Background image, keyboard language, Steam Workshop, accent colours","Background image, accent colours, notifications, night light"
+Backspace,Backspace
+Backwards,Backwards
+Base Author,Base Author
+Best effort (Intensive!),Max framerate (Intensive!)
+Best effort can only be used with desktop captures!,Max framerate can only be used with desktop captures!
+Best effort cannot be used on monitors not connected to your main GPU!,Max framerate cannot be used on monitors not connected to your main GPU!
+Block Input to other applications,Block Input to other applications
+Block cursor input,Block cursor input
+Block input,Block input
+Bottom,Bottom
+Brightness Range,Brightness Range
+Bring to me,Bring to me
+Calibrating battery monitoring,Calibrating battery monitoring
+Cancel,Cancel
+Cancel alarm through the Wristwatch clock tab.,Wakey wakey! Cancel alarm through the Wristwatch clock tab.
+Cancel timer through the Wristwatch clock tab.,Time's up! Cancel timer through the Wristwatch clock tab.
+Category,Category
+Change profile,Change profile
+Changing the hiding angle is only possible when the overlay is attached to a device.,Changing the hiding angle is only possible when the overlay is attached to a device.
+Charging,Charging
+Chroma key,Chroma key
+Chroma key enabled,Chroma key enabled
+Clean install,Clean install
+Click 'Set Contents' to change what a window is displaying.,Click 'Set Contents' to change what a window is displaying.
+Click 'Spawn Window' to create a new window.,Click 'Spawn Window' to create a new window.
+Click hotkeys to remove,Click shortcuts to remove
+Click or press 'R' to search again.,Click 'Search' or press 'R' to search again.
+Click the gear icon to open Edit Mode,Click the gear icon to open 'Edit Mode'
+Close,Close
+Close 'Edit Mode' again by clicking the gear icon.,Close 'Edit Mode' again by clicking the gear icon.
+Close 'Edit Mode' again by pressing F8.,Close 'Edit Mode' again by pressing F8.
+Close all windows,Close all windows
+Close the dashboard to use OVR Toolkit,Close the dashboard to use OVR Toolkit
+"Closing 'Edit Mode' will only close the menu. To toggle your created windows on and off without entering or exiting Edit Mode, press F7.","Closing 'Edit Mode' will only close the menu.
+To toggle your created windows on and off without entering or exiting Edit Mode, press F7."
+"Closing 'Edit Mode' will toggle off your windows, however, you can keep them visible by enabling the 'Keep Visible' option in 'Window Settings'.","Closing 'Edit Mode' will toggle off your windows, however, you can keep them visible by enabling the 'Keep Visible' option in 'Window Settings'."
+"Compact UI, legacy Edit Mode, resize menu","Compact UI, legacy Edit Mode, resize menu"
+Configure wrist overlay,Configure wrist overlay
+Confirm,Confirm
+"Connection lost, please restart OVR Toolkit!","Connection lost, please restart OVR Toolkit!"
+Continuous voice recognition,Continuous voice recognition
+Crashed? Try this:,Crashed? Try this:
+Create,Create
+Create Event,Create Event
+Credits:,Credits:
+Crop window,Crop window
+Current windows,Current windows
+Curve,Curve
+Curved overlays,Curved overlays
+Curved overlays are only available when a window isn't attached to a controller,Curved overlays are only available when a window isn't attached to a controller
+Custom icons,Custom icons
+Customise,Customise
+Customize background,Customize background
+Cycle Profile Backwards,Cycle Profile Backwards
+Cycle Profile Forward,Cycle Profile Forward
+Delete,Delete
+Delete event?,Delete event?
+Delete preset,Delete preset
+Description,Description
+"Description too long, please limit to 3000 characters.","Description too long, please limit to 3000 characters."
+Desktop,Desktops
+Disable GPU Capture,Disable Gpu Capture
+Disable sound,Disable keyboard sound
+Display RAM instead of VRAM,Display RAM instead of VRAM
+Display remaining battery in minutes,Display remaining battery in minutes
+Do you want to start this application?,Do you want to start this application?
+Don't show again,Don't show again
+Don't use Steam or Discord? Send me an e-mail at: curtis@ovrtoolkit.co.uk,Don't use Steam or Discord? Send me an e-mail at: curtis@ovrtoolkit.co.uk
+Down,Down
+Drop a window on the attach point on a hand to attach a window to your hand.,Drop a window on the attach point on a hand to attach a window to your hand.
+Drop a window on the detach point to detatch the window from your hand.,Drop a window on the detach point to detatch the window from your hand.
+Eco Mode,Eco Mode
+Eco Mode is still enabled. Disable it in 'Window Settings' to keep higher frame rate.,Eco Mode is still enabled. Disable it in 'Window Settings' to keep higher frame rate.
+Edit Mode,Edit Mode
+"Edit Mode allows you to create new windows, move them, and select what they display.","Edit Mode allows you to create new windows, move them, and select what they display."
+Edit controller bindings,Edit controller bindings
+Edit hotkeys,Edit shortcuts
+Educational,Educational
+Enable Performance Mode,Enable Eco Mode
+Enable UI moving,Enable moving Edit Mode menu
+Enable rotation lock,Enable rotation lock
+Enable swipe typing,Enable swipe typing
+Enable window docking,Enable window docking
+Enable word suggestions,Enable word suggestions
+Enable wrist UI moving,Enable moving Wristwatch
+Enable wrist overlay,Enable wrist overlay
+"Enable, switch hands, change modules, resize overlay","Enable, switch hands, change modules, resize overlay"
+End,End
+Enter the 'Window List' menu and select 'Spawn Window'.,Enter the 'Window List' menu and select 'Spawn Window'.
+Enter the 'Window Settings' menu and select 'Move Window'.,Enter the 'Window Settings' menu and select 'Move Window'.
+Enter the 'Window Settings' menu and select 'Set Contents' to change what a window displays.,Enter the 'Window Settings' menu and select 'Set Contents' to change what a window displays.
+Event Name:,Event Name:
+Event Starting,Event Starting
+Events,Events
+"Events doesn't support this game yet, sorry!","Events doesn't support this game yet, sorry!"
+Exercise,Exercise
+External Link:,External Link:
+Fade out,Fade when out of focus
+Find new content,Find new content
+Find new keyboards,Find new keyboards
+Fix,Fix
+Fix startup,Fix startup
+Flip Horizontal,Flip Horizontal
+Flip Vertical,Flip Vertical
+Force GPU Capture,Use GPU Capture
+Forward,Forward
+Framerate,Framerate
+Full,Full
+Game,Game
+Game input blocking,Game input blocking
+Games,Games
+Get content,Get content
+Global Settings,Global Settings
+Hand tracking:,Hand tracking:
+Head gaze,Head gaze
+Hide keyboard controls,Hide keyboard controls
+Hide when not looking at window,Only show when in view
+Hide when past hide distance,Hide when past hide distance
+Hide wrist overlay when not visible,Hide wrist overlay when not visible
+High priority process:,High priority process:
+Hold 'A' near a window to move it. (Optionally use 'Grip'),"Hold 'A' near a window to move it.
+(Optionally use 'Grip')"
+Hold 'Grip' near a window to move it.,Hold 'Grip' near a window to move it.
+Holding 'Shift' will move windows faster. Holding 'Alt' will move windows slower.,"Holding 'Shift' will move windows faster.
+Holding 'Alt' will move windows slower."
+Home,Home
+How to,How to
+How to enable,How to enable
+"How to use: Use the 'Spawn Mask' button to create objects that will hide parts of the window. Move masks around by holding the Trigger on them and dragging. Masks will show as white whilst in the cropping menu, but will be see-through once you close the menu.","How to use:
+
+Use the 'Spawn Mask' button to create objects that will hide parts of the window.
+
+Move masks around by holding the Trigger on them and dragging.
+
+Masks will show as white whilst in the cropping menu, but will be see-through once you close the menu."
+Hue Range,Hue Range
+I understand,I understand
+Icon,Icon
+Icon must be 100x100 pixels!,Icon must be 100x100 pixels!
+Ignore,To Ignore
+Important information for Oculus users,Important information for Oculus users
+Individual,Individual
+Input,Input
+Interested,Interested
+Interface,Interface
+Invalid Join Link! Maybe the event host didn't set one?,Invalid Join Link! Maybe the event host didn't set one?
+"Invalid event category, please select one!","Invalid event category, please select one!"
+"Invalid event description, must not be empty!","Invalid event description, must not be empty!"
+"Invalid event join instructions, must not be empty!","Invalid event join instructions, must not be empty!"
+"Invalid event name, must not be empty!","Invalid event name, must not be empty!"
+"Invalid event time, must be within 14 days!","Invalid event time, must be within 14 days!"
+"Invalid event time, must not be in the past!","Invalid event time, must not be in the past!"
+It may take some time for minutes remaining to appear!,It may take some time for minutes remaining to appear!
+Join,Join
+"Join Instructions too long, please limit to 400 characters.","Join Instructions too long, please limit to 400 characters."
+Join Instructions:,Join Instructions
+Join URL (Optional),Join URL (Optional)
+Keep holding grip to move,Keep holding grip to move
+Keep visible,Keep visible
+Keyboard,Keyboard
+Keyboard controls,Keyboard/Joystick controls
+Known Applications,Known Applications
+Language selection is not possible for 'Speech Proxy'.,Language selection is not possible for 'Speech Proxy'.
+Larger,Larger
+"Later, you can click 'Edit Shortcuts' to create shortcuts for displaying specific applications.","Later, you can click 'Edit Shortcuts' to create shortcuts for displaying specific applications."
+Left,Left
+Left click,Left click
+Legacy Edit Mode,Legacy Edit Mode
+Loading...,Loading...
+Look at your left wrist,Look at your left wrist
+Looks like there's no events at the moment! Maybe create one?,"Looks like there's no events at the moment!
+Maybe create one?"
+Low Battery,Low Battery
+Macros,Macros
+Main,Main
+Maintain width,Maintain width
+Master,Master
+Media Applications,Media Applications
+Media controls,Media controls
+Media profanity filter,Media profanity filter
+Menu Back,Menu Back
+Menu Controls,Menu Controls
+Menu Down,Menu Down
+Menu Left,Menu Left
+Menu Right,Menu Right
+Menu Select,Menu Select
+Menu Up,Menu Up
+Menu Visible,Menu Visible
+Minimize menu on open,Minimize menu on open
+Minimize on startup:,Minimize on startup:
+Misc,Misc
+More will add to this menu as you use different media applications.,More will add to this menu as you use different media applications.
+Mouse smoothing,Mouse smoothing
+Move all windows,Move all windows
+Move delay,Move delay
+Move window,Move window
+Name,Name
+"Name too long, please limit to 60 characters.","Name too long, please limit to 60 characters."
+"Navigate the menu by using the arrow keys, Enter, and Backspace.","Navigate the menu by using the arrow keys, Enter, and Backspace.
+
+"
+Navigation,Navigation
+Need help? Position the window so that the center of it is close to the attach point. The circle around the attach point will shrink as you move the window closer.,Need help? Position the window so that the center of it is close to the attach point. The circle around the attach point will shrink as you move the window closer.
+Next,Next
+Night light,Night light
+Night light will enable with the Windows night light,Night light will enable with the Windows night light
+No,No
+"No events found, maybe create one?","No events found, maybe create one?"
+None,None
+Not Interested,Not Interested
+Not starting?,Not starting?
+"Not using VR controllers? When in VR, press F8!","Not using VR controllers? When in VR, press F8!"
+Note3,Note
+Notifications Enabled,Notifications Enabled
+Notifications opacity,Notifications opacity
+Notifications size,Notifications size
+"OVR Toolkit is starting, please wait!","OVR Toolkit is starting, please wait!"
+OVR Toolkit isn't running as admin! The program may not function correctly.,OVR Toolkit isn't running as admin! The program may not function correctly.
+Okay,Okay
+"Once selected, release the 'Ctrl' key to start moving the window.","Once selected, release the 'Ctrl' key to start moving the window."
+Only block input in Edit Mode,Only block input in Edit Mode
+Opacity,Opacity
+Open link,Open link
+Open log folder,Open log folder
+Opened link in your browser.,Opened link in your browser.
+Orientation,Orientation
+Overlay Quality,Overlay Quality
+Overlay quality is determined automatically by SteamVR with no user or developer option to change it.,Overlay quality is determined automatically by SteamVR with no user or developer option to change it.
+Overlay quality reduced - Click for more details,Overlay quality reduced - Click for more details
+Performance stats,Performance stats
+Persist between profiles,Persist between profiles
+Pick colour,Pick colour
+Picking...,Picking...
+Pin window,Keep visible
+Play Pause,Play / Pause
+Play music in loading screen,Play music in loading screen
+Player Limit,Player Limit
+Player limit too high! 150 max.,Player limit too high! 150 max.
+Player limit too low!,Player limit too low!
+Please attach the 'Player' and 'Player-Last' log files from the following folder to help fix your issue:,Please attach the 'Player' and 'Player-Last' log files from the following folder to help fix your issue:
+Please do not hesitate to join us on Discord to provide feedback or suggestions to improve the experience!,Please do not hesitate to join us on Discord to provide feedback or suggestions to improve the experience!
+"Please join us on Discord for the fastest response, or, post on the Steam Discussions!","Please join us on Discord for the fastest response, or, post on the Steam Discussions!"
+"Please join us on Discord, or, check out the video tutorial to learn more about using OVR Toolkit.","Please join us on Discord, or, check out the video tutorial to learn more about using OVR Toolkit."
+Please put your headset on to start using OVR Toolkit!,"Please put your headset on
+to start using OVR Toolkit!"
+Please restart SteamVR!,Please restart SteamVR!
+Presets,Presets
+Press 'Enter' to close the tutorial.,Press 'Enter' to close the tutorial.
+Press Backspace to finish,Press Backspace to finish
+Press Backspace to stop moving.,Press Backspace to stop moving.
+"Press Delete to delete a window, Insert to bring the window into view.","Press 'Delete' to delete a window, 'Insert' to bring the window into view, 'Enter'/'Return' to select a window."
+Press F to favourite,Press F to favourite
+Press F8 key,Press F8 key
+Previous,Previous
+Profile switcher,Profile switcher
+Profiles,Profiles
+Quit,Quit
+Re-center,Re-center
+Re-center window,Re-center window
+"Re-center window will position windows relative to your headset each time you toggle your overlays, useful when using 'playspace mover' applications.","Re-center window will position windows relative to your headset each time you toggle your overlays, useful when using 'playspace mover' applications."
+Ready to use,Ready to use
+Rebind,Rebind
+Recenter snap angle,Re-center snapping angle
+Recenter windows,Recenter windows
+Refresh list,Refresh list
+Remember UI minimized state,Remember UI minimized state
+Report bug,Report bug
+Requires manual setup,Requires manual setup
+Reset,Reset
+Reset UI location,Reset UI location
+Reset UI position,Reset UI position
+Reset keyboard position,Reset keyboard position
+Reset settings,Reset settings
+Reset to default keyboard,Reset to default keyboard
+Reset tutorial,Reset tutorial
+Resize,Resize
+Resize menu,Resize menu
+Resize window,Resize window
+Resize wrist overlay,Resize wrist overlay
+Restart Application,Restart Application
+Right,Right
+Right click,Right click
+Rotate left,Rotate left
+Rotate right,Rotate right
+Running,Running
+Saturation Range,Saturation Range
+Save,Save
+Save changes,Save changes
+Saved,Saved
+Scroll down,Scroll down
+Scroll up,Scroll up
+Search,Search
+Select,Select
+Select Icon,Select Icon
+Select Media Applications,Select Media Applications
+Select Window,Select Window
+Select a window,Select a window
+Select a window by clicking on it to use Window Settings!,Select a window by clicking on it to use Window Settings!
+Select content,Select content
+Select keyboard,Select keyboard
+Select microphone,Select microphone
+Select wrist watch size,Select wrist watch size
+Select your preffered wrist watch size,Select your preffered wrist watch size
+Selected file is not a PNG file!,Selected file is not a PNG file!
+Set as default,Set as default
+Set contents,Set contents
+Settings,Settings
+Setup hotkeys for faster window switching!,(Setup hotkeys for faster window switching!)
+Setup wrist macros,Setup wrist macros
+Show and hide your windows by double pressing both 'A' buttons.,Show and hide your windows by double pressing both 'A' buttons.
+Show and hide your windows by double pressing both 'Grip' buttons.,Show and hide your windows by double pressing both 'Grip' buttons.
+Show events on game start,Show events on game start
+Show in front,Always on top
+Show playing media in Chatbox,Show playing media in Chatbox
+Side-by-Side 3D Crossed,Side-by-Side 3D Crossed
+Side-by-Side 3D Parralel,Side-by-Side 3D Parallel
+Simple,Simple
+Skip tutorial,Skip tutorial
+Smaller,Smaller
+Social,Social
+"Sounds, word suggestions, rotation lock, microphone","Sounds, word suggestions, rotation lock, microphone"
+Spawn Mask,Spawn Mask
+Spawn Window,Spawn Window
+Spawn another window from the 'Window List' menu.,Spawn another window from the 'Window List' menu.
+Spawn new window,Spawn new window
+Speech API,Speech Api
+Speech language,Speech language
+Start,Start
+Start a game to see Events!,Start a game to see Events!
+Start application,Start application
+Start tutorial,Start tutorial
+Started:,Started:
+Startup complete! You can now use OVR Toolkit!,Startup complete! You can now use OVR Toolkit!
+Startup errors,Startup errors
+Startup messages,Startup messages
+Steam Workshop,Steam Workshop
+Subscribe,Subscribe
+Subscribed Items,Subscribed Items
+Switch Profile,Switch Profile
+Switch Window,Switch Window
+Switch menu hand,Switch menu hand
+Switch overlay hand,Switch overlay hand
+Tab into game,Tab into game
+Tab out on window toggle:,Tab out on window toggle:
+Thank you for choosing OVR Toolkit!,Thank you for choosing OVR Toolkit!
+The currently selected window is shown by a yellow border around it.,The currently selected window is shown by a yellow border around it.
+"The tutorial is now complete, we hope you enjoy your time using OVR Toolkit!","The tutorial is now complete, we hope you enjoy your time using OVR Toolkit!"
+There are upcoming events for this game!,There are upcoming events for this game!
+These will appear on your wristwatch in VR,These will appear on your wristwatch in VR
+This fix will link your SteamVR Resolution to your overlay supersampling. (Up to 150 ),
+"This will set the default settings used on all newly spawned windows, are you sure?","This will set the default settings used on all newly spawned windows, are you sure?"
+This workaround will trick SteamVR into thinking your PC is faster than it is so the overlay resolution will be increased.,This workaround will trick SteamVR into thinking your PC is faster than it is so the overlay resolution will be increased.
+Those are the basics of using OVR Toolkit! Find more info on our wiki or on our Discord!,Those are the basics of using OVR Toolkit! Find more info on our wiki or on our Discord!
+Tilt,Tilt
+Tilt Back,Tilt Back
+Tilt Down,Tilt Down
+Tilt Forward,Tilt Forward
+Tilt Left,Tilt Left
+Tilt Right,Tilt Right
+Tilt Up,Tilt Up
+Time visible,Time visible
+Timer,Timer
+Timer cancelled,Timer cancelled
+Timer set,Timer set
+"To configure, recenter your view in game then open Edit Mode","Re-center your view until the windows are in the correct position.
+
+
+Press 'R' to reload window positions.
+
+Press Enter to finish calibration. (Or toggle Edit Mode with VR controllers)"
+"To move windows, hold the grip button near them whilst in 'Edit Mode'.","To move windows, hold the grip button near them whilst in 'Edit Mode'."
+"To resize a window, hold both 'A' buttons and move your hands apart or together.","To resize a window, hold both 'A' buttons and move your hands apart or together."
+"To resize a window, hold both 'Grip' buttons and move your hands apart or together.","To resize a window, hold both 'Grip' buttons and move your hands apart or together."
+"To select which window you are editing open 'Window List', navigate to the window you would like to edit, then press 'Enter'.","To select which window you are editing open 'Window List', navigate to the window you would like to edit, then press 'Enter'."
+To toggle 'Edit Mode' double press both grip buttons at the same time.,To toggle 'Edit Mode' double press both grip buttons at the same time.
+Toggle,Toggle
+Toggle 'Simulator Mode' menu:,Toggle 'Simulator Mode' menu:
+Toggle Windows,Toggle Windows
+Top,Top
+"Touchscreen input, touchpad scrolling, grip resizing","Touchscreen input, touchpad scrolling, grip resizing"
+TouchscreenOff,Touchscreen emulation DISABLED
+TouchscreenOn,Touchscreen emulation ENABLED
+Tracked device,Tracked device
+Trigger down,Trigger down
+Trigger up,Trigger up
+Tutorial,Tutorial
+Tutorial finished,Tutorial finished
+Unsubscribe,Unsubscribe
+Unsupported,Unsupported
+Up,Up
+Upcoming Event,Upcoming Event
+Upcoming Events,Upcoming Events
+Update Event,Update Event
+Use 24 hour time,Use 24 hour time
+"Use arrow keys to navigate the menu. Enter to select, Backspace to go back.","Use arrow keys to navigate the menu. Enter to select, Backspace to go back."
+Use both touchpads,Use both touchpads
+Use compact UI,Use compact UI
+Use grip window resizing,Use grip window resizing
+Use media keys,Use media keys
+Use right arrow key to access favourite windows.,Use right arrow key to access favourite windows.
+Use the on-screen movement controls to manipulate the window's position.,Use the on-screen movement controls to manipulate the window's position.
+Use touchpad resizing,Use touchpad resizing
+Use touchpad scrolling,Use touchpad scrolling
+Use touchpad window moving,Use touchpad window moving
+Use touchscreen input,Use touchscreen input
+VIVE Wireless stats,VIVE Wireless stats
+VR Controllers,VR Controllers
+Vertical,Vertical
+Video guides:,Video guides:
+Visibility,Visibility
+Voice Input,Voice Input
+"Voice recognition can be stopped and started by the voice input bar on top of the keyboard. For VRChat Chatbox output, ensure you click the 'VRC' button!","Voice recognition can be stopped and started by the voice input bar on top of the keyboard. For VRChat Chatbox output, ensure you click the 'VRC' button!"
+Volume,Volume
+Welcome to OVR Toolkit!,Welcome to OVR Toolkit!
+"Whilst holding a window, push up or down on the Joystick to push the window forwards or backwards.","Whilst holding a window, push up or down on the Joystick to push the window forwards or backwards."
+"Whilst holding a window, push up or down on the Trackpad to push the window forwards or backwards.","Whilst holding a window, push up or down on the Trackpad to push the window forwards or backwards."
+Wiki,Wiki
+Window Cropping,Window Cropping
+Window List,Window List
+Window Settings,Window Settings
+Window docking,Window docking
+Window movement,Window movement
+Window moving when not in Edit Mode,Window moving when not in Edit Mode
+Window selection,Window selection
+Windows,Windows
+Windows face headset,Windows face headset
+Windows notifications,Windows notifications
+Workshop Subscriptions,Workshop Subscriptions
+Would you like to take a short tutorial on how it works?,Would you like to take a short tutorial on how it works?
+Wristwatch,Wristwatch
+Yes,Yes
+You can keep windows visible by clicking the 'Pin' icon below them when in 'Edit Mode'.,You can keep windows visible by clicking the 'Pin' icon below them when in 'Edit Mode'.
+Your SteamVR Resolution will be linked to your overlay resolution. (Up to 150 ),Your SteamVR Resolution will be linked to your overlay resolution. (Up to 150%)
+"Your event starts in 5 minutes, please ensure your Join Instructions are set!","Your event starts in 5 minutes, please ensure your Join Instructions are set!"

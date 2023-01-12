@@ -1,0 +1,476 @@
+"(Or, hold 'Enter' to start - Hold 'Esc' to skip)",(또는 시작하려면 'Enter' 키를 오래 누르고 건너뛰려면 'Esc' 키를 오래 누르세요)
+- Automatically stops listening,- 자동으로 리스닝 중지
+- Includes grammar,- 문법 포함
+- Lower accuracy,- 낮은 정확도
+- Much higher accuracy,- 훨씬 더 높은 정확도
+- Multi-language support,- 다국어 지원
+- Requires 'Chrome' to be installed,- '크롬'이 설치되어 있어야 합니다.
+1. Never launch OVR Toolkit through Oculus Home -This may launch the application incorrectly. 2. Please refer to the 'Oculus' page on our Wiki (by the button above) if OVR Toolkit doesn't appear in your games due to the game not running through OpenVR. 3. Please note that running games through OpenVR may reduce their performance as you will be rendering SteamVR and the Oculus compositor. This is unavoidable with any overlay application on Steam! Don't hesitate to join our Discord for help! :),"1. Oculus Home을 통해 OVR 툴킷을 시작하지 마십시오. 응용 프로그램이 잘못 실행될 수 있습니다.
+
+2. OpenVR을 통해 실행되지 않는 게임으로 인해 OVR 툴킷이 게임에 나타나지 않으면 Wiki의 'Oculus'페이지를 참조하십시오 (위의 버튼으로).
+
+3. SteamVR과 Oculus컴포지터를 렌더링 할 때 OpenVR을 통해 게임을 실행하면 성능이 저하 될 수 있습니다. Steam 오버레이 응용 프로그램에서는 피할 수 없는 문제입니다!
+
+주저하지 말고 Discord에 도움을 요청하십시오! :)"
+Accent brightness,강조색 밝기
+Accent colour,강조색 색상
+Add Hotkey,단축키 추가
+Add Module,모듈 추가
+Add key press,키 입력 추가
+Add macro,매크로 추가
+Add new module,새 모듈 추가
+Admin check failed,관리자 확인 실패
+Advanced,고급
+Alarm,경보
+Alarm cancelled,알람 취소됨
+Alarm set:,알람 설정:
+Alt tab on changing windows:,창 변경시 Alt 탭 :
+An event you're interested in is starting in under 1 hour!,관심 있는 이벤트가 1시간 이내에 시작됩니다!
+An event you're interested in is starting in under 30 minutes!,관심 있는 이벤트가 30분 이내에 시작됩니다!
+An event you're interested in is starting! Open Edit Mode for join instructions.,관심있는 이벤트가 시작됩니다! 참가 지침을 보려면 편집 모드를 엽니다.
+Angle snapping,앵글 스냅
+"Angle snapping, face headset, automatic curving","앵글 스냅, 헤드셋을 바라보는 방향, 자동 커브"
+Are you sure?,확실합니까?
+Attach fpsVR,fpsVR을 부착
+Attach to HMD,HMD에 부착
+Attached,부착됨
+Author,저자
+Auto performance adjustments:,자동 성능 조정:
+Automatically alt tab into games:,자동으로 탭을 게임으로 이동:
+Automatically curve windows,창을 자동으로 휨
+Back,뒤
+Background,배경:
+"Background image, keyboard language, Steam Workshop, accent colours","배경 이미지, 강조 색상, 알림, 야간 조명"
+Backspace,백 스페이스
+Backwards,뒤로
+Base Author,기본 저자
+Best effort (Intensive!),최대 프레임레이트 (격렬함!)
+Best effort can only be used with desktop captures!,최대 프레임 레이트는 데스크탑 캡쳐에만 사용할 수 있습니다!
+Best effort cannot be used on monitors not connected to your main GPU!,메인 GPU에 연결되지 않은 모니터에는 최대 프레임 레이트을 사용할 수 없습니다!
+Block Input to other applications,다른 응용 프로그램에 대한 입력 차단
+Block cursor input,커서 입력 차단
+Block input,입력 차단
+Bottom,아래
+Brightness Range,밝기 범위
+Bring to me,나에게 가져오기
+Calibrating battery monitoring,배터리 모니터링 보정
+Cancel,취소
+Cancel alarm through the Wristwatch clock tab.,손목시계 시계 탭을 통해 알람을 취소합니다.
+Cancel timer through the Wristwatch clock tab.,손목시계 시계 탭을 통해 타이머를 취소합니다.
+Category,카테고리
+Change profile,프로필 변경
+Changing the hiding angle is only possible when the overlay is attached to a device.,숨겨지는 각도의 변경은 오버레이가 장치에 부착된 경우에만 가능합니다.
+Charging,충전 중
+Chroma key,크로마 키
+Chroma key enabled,크로마 키 활성화
+Clean install,클린 설치
+Click 'Set Contents' to change what a window is displaying.,창에 표시되는 내용을 변경하려면 '내용 설정'을 클릭하십시오.
+Click 'Spawn Window' to create a new window.,"""창 생성""을 클릭하여 새 창을 만듭니다."
+Click hotkeys to remove,핫 키를 클릭하여 제거
+Click or press 'R' to search again.,"""검색""을 클릭하거나 'R'을 눌러 다시 검색하십시오."
+Click the gear icon to open Edit Mode,톱니 바퀴 아이콘을 클릭하여 편집 모드를 엽니다.
+Close,닫기
+Close 'Edit Mode' again by clicking the gear icon.,톱니 바퀴 아이콘을 클릭하여 '편집 모드'를 다시 닫습니다.
+Close 'Edit Mode' again by pressing F8.,F8을 눌러 '편집 모드'를 다시 닫습니다.
+Close all windows,모든 창 닫기
+Close the dashboard to use OVR Toolkit,OVR Toolkit을 사용하려면 대시 보드를 닫으십시오.
+"Closing 'Edit Mode' will only close the menu. To toggle your created windows on and off without entering or exiting Edit Mode, press F7.","""편집 모드""를 닫으면 메뉴만 닫힙니다.
+편집 모드를 시작하거나 종료하지 않고 생성된 창을 켜고 끄려면 F7 키를 누릅니다."
+"Closing 'Edit Mode' will toggle off your windows, however, you can keep them visible by enabling the 'Keep Visible' option in 'Window Settings'.","""편집 모드""를 닫으면 창이 꺼지지만 '창 설정'에서 '표시 유지' 옵션을 활성화하여 창을 계속 표시 할 수 있습니다."
+"Compact UI, legacy Edit Mode, resize menu","컴팩트 UI, 레거시 편집 모드, 크기 조정 메뉴"
+Configure wrist overlay,손목 오버레이 구성
+Confirm,확인
+"Connection lost, please restart OVR Toolkit!",연결이 끊어졌습니다. OVR Toolkit을 다시 시작하세요!
+Continuous voice recognition,지속적인 음성 인식
+Crashed? Try this:,충돌이 발생했나요? 이것을 시도해보세요:
+Create,생성
+Create Event,이벤트 생성
+Credits:,크레딧 :
+Crop window,창 자르기
+Current windows,현재 창
+Curve,커브
+Curved overlays,커브드 오버레이
+Curved overlays are only available when a window isn't attached to a controller,커브드 오버레이는 창이 컨트롤러에 부착되지 않은 경우에만 사용할 수 있습니다
+Custom icons,커스텀 아이콘
+Customise,커스터마이징
+Customize background,커스텀 배경화면
+Cycle Profile Backwards,프로필을 거꾸로 순환
+Cycle Profile Forward,프로필을 앞으로 순환
+Delete,삭제
+Delete event?,이벤트를 삭제하시겠습니까?
+Delete preset,프리셋 삭제
+Description,설명
+"Description too long, please limit to 3000 characters.",설명이 너무 깁니다. 3000자 이내로 작성하세요.
+Desktop,데스크탑
+Disable GPU Capture,GPU 캡처 비활성화
+Disable sound,키보드 소리 비활성화
+Display RAM instead of VRAM,VRAM 대신 RAM 표시
+Display remaining battery in minutes,남은 배터리를 분 단위로 표시
+Do you want to start this application?,이 응용 프로그램을 시작 하시겠습니까?
+Don't show again,다시 표시하지 않음
+Don't use Steam or Discord? Send me an e-mail at: curtis@ovrtoolkit.co.uk,Steam 또는 Discord를 사용하지 않고 계신가요? curtis@ovrtoolkit.co.uk로 이메일을 보내주세요.
+Down,아래
+Drop a window on the attach point on a hand to attach a window to your hand.,손의 부착 지점에 창을 놓아 손에 창을 부착합니다.
+Drop a window on the detach point to detatch the window from your hand.,분리 지점에 창을 놓아 손에서 창을 분리합니다.
+Eco Mode,에코 모드
+Eco Mode is still enabled. Disable it in 'Window Settings' to keep higher frame rate.,에코 모드가 여전히 활성화되어 있습니다. 더 높은 프레임 레이트를 유지하려면 '창 설정'에서 비활성화하십시오.
+Edit Mode,편집 모드
+"Edit Mode allows you to create new windows, move them, and select what they display.",편집 모드를 사용하면 새 창을 만들고 이동하고 표시 할 내용을 선택할 수 있습니다.
+Edit controller bindings,컨트롤러 바인딩 편집
+Edit hotkeys,단축키 편집
+Educational,교육적인
+Enable Performance Mode,에코 모드 활성화
+Enable UI moving,편집 모드 메뉴 이동 활성화
+Enable rotation lock,회전 잠금 사용
+Enable swipe typing,스와이프 타이핑 사용
+Enable window docking,창 도킹 사용
+Enable word suggestions,추천 단어 사용
+Enable wrist UI moving,움직이는 손목시계 활성화
+Enable wrist overlay,손목 오버레이 사용
+"Enable, switch hands, change modules, resize overlay","활성화, 손 전환, 모듈 변경, 오버레이 크기 조정"
+End,종료
+Enter the 'Window List' menu and select 'Spawn Window'.,'창 목록'메뉴로 들어가 '창 생성'을 선택합니다.
+Enter the 'Window Settings' menu and select 'Move Window'.,'창 설정'메뉴로 들어가 '창 이동'을 선택합니다.
+Enter the 'Window Settings' menu and select 'Set Contents' to change what a window displays.,'창 설정'메뉴로 들어가 '내용 설정'을 선택하여 창에 표시되는 내용을 변경합니다.
+Event Name:,이벤트 이름:
+Event Starting,이벤트 시작
+Events,이벤트
+"Events doesn't support this game yet, sorry!",이벤트는 아직 이 게임을 지원하지 않습니다. 죄송합니다!
+Exercise,연습
+External Link:,외부 링크:
+Fade out,초점이 맞지 않으면 페이드 시키기
+Find new content,새로운 콘텐츠 찾기
+Find new keyboards,새 키보드 찾기
+Fix,수정
+Fix startup,시작 수정
+Flip Horizontal,수평으로 뒤집기
+Flip Vertical,수직으로 뒤집기
+Force GPU Capture,GPU 캡처 사용
+Forward,앞으로
+Framerate,프레임 레이트
+Full,전체
+Game,게임
+Game input blocking,게임 입력 차단
+Games,게임
+Get content,콘텐츠 가져오기
+Global Settings,글로벌 설정
+Hand tracking:,핸드 트래킹:
+Head gaze,머리 시선
+Hide keyboard controls,키보드 컨트롤 숨기기
+Hide when not looking at window,볼 때만 표시
+Hide when past hide distance,일정 거리보다 멀어지면 숨기기
+Hide wrist overlay when not visible,보이지 않으면 손목 오버레이 숨기기
+High priority process:,높은 우선 순위 프로세스:
+Hold 'A' near a window to move it. (Optionally use 'Grip'),"이동하려면 창 근처에서 'A'를 누르세요.
+(선택적으로 '그립'사용)"
+Hold 'Grip' near a window to move it.,창 근처의 '그립'을 눌러 이동하세요.
+Holding 'Shift' will move windows faster. Holding 'Alt' will move windows slower.,"""Shift""를 누르고 있으면 창이 더 빨리 이동합니다.
+'Alt'를 누르고 있으면 창을 느리게 이동합니다."
+Home,홈
+How to,사용 방법
+How to enable,활성화 방법
+"How to use: Use the 'Spawn Mask' button to create objects that will hide parts of the window. Move masks around by holding the Trigger on them and dragging. Masks will show as white whilst in the cropping menu, but will be see-through once you close the menu.","사용하는 방법:
+
+'마스크 생성'버튼을 사용하여 창의 일부를 숨길 마스크를 만듭니다.
+
+트리거를 누른 상태에서 드래그하여 마스크를 이동합니다.
+
+마스크는 자르기 메뉴에서 흰색으로 표시되지만 메뉴를 닫으면 투명하게 표시됩니다."
+Hue Range,색조 범위
+I understand,이해했습니다
+Icon,아이콘
+Icon must be 100x100 pixels!,아이콘은 100x100픽셀이어야 합니다!
+Ignore,무시하기
+Important information for Oculus users,오큘러스 사용자를 위한 중요한 정보
+Individual,개인
+Input,입력
+Interested,관심 있는
+Interface,인터페이스
+Invalid Join Link! Maybe the event host didn't set one?,가입 링크가 잘못되었습니다! 이벤트 주최자가 설정하지 않았을 수도 있습니다.
+"Invalid event category, please select one!",이벤트 카테고리가 잘못되었습니다. 하나를 선택하세요!
+"Invalid event description, must not be empty!",잘못된 이벤트 설명입니다. 비워둘 수 없습니다!
+"Invalid event join instructions, must not be empty!",이벤트 참가 지침이 잘못되었습니다. 비워둘 수 없습니다!
+"Invalid event name, must not be empty!",이벤트 이름이 잘못되었습니다. 비워둘 수 없습니다!
+"Invalid event time, must be within 14 days!",이벤트 시간이 잘못되었습니다. 14일 이내여야 합니다!
+"Invalid event time, must not be in the past!",이벤트 시간이 잘못되었습니다. 과거가 아니어야 합니다!
+It may take some time for minutes remaining to appear!,남은 시간(분)이 표시되는 데 시간이 걸릴 수 있습니다!
+Join,참가
+"Join Instructions too long, please limit to 400 characters.",참가 지침이 너무 깁니다. 400자로 제한하십시오.
+Join Instructions:,참가 지침
+Join URL (Optional),참가 URL(선택 사항)
+Keep holding grip to move,그립을 오래 눌러 움직이기
+Keep visible,계속 보이도록 하기
+Keyboard,키보드
+Keyboard controls,키보드 / 조이스틱 컨트롤
+Known Applications,알려진 응용 프로그램
+Language selection is not possible for 'Speech Proxy'.,"""스피치 프록시""는 언어 선택이 불가능합니다."
+Larger,더 크게
+"Later, you can click 'Edit Shortcuts' to create shortcuts for displaying specific applications.",나중에 '바로 가기 수정'을 클릭하여 특정 애플리케이션을 표시하기위한 바로 가기를 만들 수 있습니다.
+Left,왼쪽
+Left click,좌 클릭
+Legacy Edit Mode,레거시 편집 모드
+Loading...,로딩...
+Look at your left wrist,왼쪽 손목을 확인하세요
+Looks like there's no events at the moment! Maybe create one?,"현재 진행 중인 이벤트가 없는 것 같습니다!
+하나 만들까요?"
+Low Battery,배터리 부족
+Macros,매크로
+Main,메인
+Maintain width,너비 유지
+Master,마스터
+Media Applications,미디어 애플리케이션
+Media controls,미디어 컨트롤
+Media profanity filter,미디어 욕설 필터
+Menu Back,메뉴 뒤
+Menu Controls,메뉴 컨트롤
+Menu Down,메뉴 아래
+Menu Left,메뉴 왼쪽
+Menu Right,메뉴 오른쪽
+Menu Select,메뉴 선택
+Menu Up,메뉴 위
+Menu Visible,메뉴 표시
+Minimize menu on open,메뉴를 최소화 시킨 채로 열기
+Minimize on startup:,최소화된 상태로 시작 :
+Misc,기타
+More will add to this menu as you use different media applications.,다른 미디어 응용 프로그램을 사용하면 이 메뉴에 더 많은 항목이 추가됩니다.
+Mouse smoothing,마우스 스무딩
+Move all windows,모든 창 이동
+Move delay,이동 지연
+Move window,창 이동
+Name,이름
+"Name too long, please limit to 60 characters.",이름이 너무 깁니다. 60자로 제한하십시오.
+"Navigate the menu by using the arrow keys, Enter, and Backspace.","화살표 키, Enter 및 백 스페이스를 사용하여 메뉴를 탐색합니다.
+
+"
+Navigation,탐색
+Need help? Position the window so that the center of it is close to the attach point. The circle around the attach point will shrink as you move the window closer.,도움이 필요하신가요? 창의 중심이 부착점에 가깝도록 창을 배치하세요. 창을 더 가까이 이동하면 연결 지점 주위의 원이 축소됩니다.
+Next,다음
+Night light,야간 모드
+Night light will enable with the Windows night light,야간 모드는 Windows 야간 모드와 함께 활성화됩니다.
+No,아니오
+"No events found, maybe create one?",이벤트를 찾을 수 없습니다. 새로 만드시겠습니까?
+None,None
+Not Interested,관심 없음
+Not starting?,실행이 안되나요?
+"Not using VR controllers? When in VR, press F8!",VR 컨트롤러를 사용하지 않으시나요? VR에 있을 때 F8을 누르세요!
+Note3,노트
+Notifications Enabled,알림 활성화
+Notifications opacity,알림 불투명도
+Notifications size,알림 크기
+"OVR Toolkit is starting, please wait!",곧 OVR 툴킷이 시작됩니다. 잠시만 기다려주십시오!
+OVR Toolkit isn't running as admin! The program may not function correctly.,OVR 툴킷이 관리자 권한으로 실행되고 있지 않습니다! 프로그램이 제대로 작동하지 않을 수 있습니다.
+Okay,확인
+"Once selected, release the 'Ctrl' key to start moving the window.",선택한 뒤 'Ctrl'키를 떼어 창 이동을 시작합니다.
+Only block input in Edit Mode,편집 모드에서 입력만 차단
+Opacity,불투명도
+Open link,링크 열기
+Open log folder,로그 폴더 열기
+Opened link in your browser.,브라우저에서 링크를 열었습니다.
+Orientation,방향
+Overlay Quality,오버레이 품질
+Overlay quality is determined automatically by SteamVR with no user or developer option to change it.,오버레이 품질은 사용자나 개발 옵션으로 설정할 수 없고 SteamVR에 의해 자동으로 결정됩니다.
+Overlay quality reduced - Click for more details,오버레이 품질 감소 - 자세한 내용을 보려면 클릭하세요.
+Performance stats,성능 통계
+Persist between profiles,프로필 간에 유지
+Pick colour,색상 선택
+Picking...,선택 중...
+Pin window,계속 보이도록 하기
+Play Pause,재생 / 일시 중지
+Play music in loading screen,로딩 화면에서 음악 재생
+Player Limit,플레이어 제한
+Player limit too high! 150 max.,플레이어 제한이 너무 높습니다! 최대 150
+Player limit too low!,플레이어 제한이 너무 낮습니다!
+Please attach the 'Player' and 'Player-Last' log files from the following folder to help fix your issue:,문제를 해결하려면 다음 폴더에 있는 'Player'및 'Player-Last' 로그 파일을 첨부하십시오.
+Please do not hesitate to join us on Discord to provide feedback or suggestions to improve the experience!,경험을 개선하기위한 피드백이나 제안이 있으시다면 망설이지 말고 Discord에 가입하세요!
+"Please join us on Discord for the fastest response, or, post on the Steam Discussions!",가장 빠른 응답을 원하시면 Discord에 가입하거나 Steam 토론에 게시하세요!
+"Please join us on Discord, or, check out the video tutorial to learn more about using OVR Toolkit.",Discord에 가입하거나 OVR 툴킷 사용에 대한 자세한 내용은 영상 튜토리얼을 확인하세요.
+Please put your headset on to start using OVR Toolkit!,"OVR 툴킷 사용을 시작하려면
+헤드셋을 착용하세요!"
+Please restart SteamVR!,SteamVR을 다시 시작하세요!
+Presets,프리셋
+Press 'Enter' to close the tutorial.,튜토리얼을 닫으려면 'Enter'를 누르세요.
+Press Backspace to finish,백 스페이스를 눌러 완료
+Press Backspace to stop moving.,이동을 중지하려면 백스페이스 키를 누르세요.
+"Press Delete to delete a window, Insert to bring the window into view.","창을 삭제하려면 'Delete'를 누르고, 창을 보려면 'Insert'를, 창을 선택하려면 'Enter'/ 'Return'을 누르세요."
+Press F to favourite,F를 눌러 즐겨 찾기에 추가
+Press F8 key,F8 키를 누르세요
+Previous,이전
+Profile switcher,프로필 전환
+Profiles,프로필
+Quit,종료
+Re-center,중심 재설정
+Re-center window,창 중심 재설정
+"Re-center window will position windows relative to your headset each time you toggle your overlays, useful when using 'playspace mover' applications.",창을 중앙으로 되돌리면 오버레이를 토글할 때마다 헤드셋을 기준으로 창을 배치하여 '재생 공간 이동기' 응용 프로그램을 사용할 때 유용합니다.
+Ready to use,사용할 준비가 끝남
+Rebind,리바인드
+Recenter snap angle,스냅 각도 중심 재설정
+Recenter windows,창 중심 재설정
+Refresh list,목록 새로고침
+Remember UI minimized state,UI 최소화 상태 기억
+Report bug,버그를 제보하기
+Requires manual setup,수동 설정 필요
+Reset,초기화
+Reset UI location,UI 로케이션 재설정
+Reset UI position,UI 포지션 재설정
+Reset keyboard position,키보드 위치 재설정
+Reset settings,설정 초기화
+Reset to default keyboard,기본 키보드로 재설정
+Reset tutorial,튜토리얼 재설정
+Resize,크기 조정
+Resize menu,메뉴 크기 조정
+Resize window,창 크기 조정
+Resize wrist overlay,손목 오버레이 크기 조정
+Restart Application,응용 프로그램 다시 시작
+Right,오른쪽
+Right click,마우스 오른쪽 버튼으로 클릭
+Rotate left,왼쪽으로 회전
+Rotate right,오른쪽으로 회전
+Running,실행중
+Saturation Range,포화 범위
+Save,저장
+Save changes,변경 사항 저장
+Saved,저장 완료
+Scroll down,아래로 스크롤
+Scroll up,위로 스크롤
+Search,검색
+Select,선택
+Select Icon,아이콘 선택
+Select Media Applications,미디어 응용 프로그램 선택
+Select Window,창 선택하기
+Select a window,창 선택
+Select a window by clicking on it to use Window Settings!,창 설정을 사용하려면 창을 클릭하여 선택하십시오!
+Select content,콘텐츠 선택
+Select keyboard,키보드 선택
+Select microphone,마이크 선택
+Select wrist watch size,손목 시계 크기 선택
+Select your preffered wrist watch size,원하는 손목 시계 크기를 선택하세요.
+Selected file is not a PNG file!,선택한 파일은 PNG 파일이 아닙니다!
+Set as default,기본값으로 설정
+Set contents,콘텐츠 설정
+Settings,설정
+Setup hotkeys for faster window switching!,창 전환을 빠르게하기 위한 단축키 설정
+Setup wrist macros,손목 매크로 설정
+Show and hide your windows by double pressing both 'A' buttons.,양 손의 'A'버튼을 두 번 눌러 창을 표시하거나 숨깁니다.
+Show and hide your windows by double pressing both 'Grip' buttons.,양 손의 '그립'버튼을 두 번 눌러 창을 표시하거나 숨깁니다.
+Show events on game start,게임 시작 시 이벤트 표시
+Show in front,항상 맨 위에
+Show playing media in Chatbox,Chatbox에서 재생 중인 미디어 표시
+Side-by-Side 3D Crossed,Side-by-Side 3D 크로스
+Side-by-Side 3D Parralel,Side-by-Side 3D 페러렐
+Simple,심플
+Skip tutorial,튜토리얼 건너 뛰기
+Smaller,더 작게
+Social,소셜
+"Sounds, word suggestions, rotation lock, microphone","소리, 단어 제안, 회전 잠금, 마이크"
+Spawn Mask,마스크 생성
+Spawn Window,창 생성
+Spawn another window from the 'Window List' menu.,"""창 목록"" 메뉴에서 다른 창을 생성"
+Spawn new window,새로운 창 생성
+Speech API,스피치 API
+Speech language,스피치 언어
+Start,시작
+Start a game to see Events!,이벤트를 확인하려면 게임을 시작하세요!
+Start application,애플리케이션 시작
+Start tutorial,튜토리얼 시작
+Started:,플레이 시간:
+Startup complete! You can now use OVR Toolkit!,시작 완료! 이제 OVR 툴킷을 사용할 수 있습니다!
+Startup errors,시작 오류
+Startup messages,시작 메시지
+Steam Workshop,스팀 창작마당
+Subscribe,구독
+Subscribed Items,구독한 아이템
+Switch Profile,프로필 전환
+Switch Window,창 전환
+Switch menu hand,메뉴 손 전환
+Switch overlay hand,오버레이 손 전환
+Tab into game,게임으로 이동
+Tab out on window toggle:,창 토글에서 탭아웃:
+Thank you for choosing OVR Toolkit!,OVR 툴킷을 선택해 주셔서 감사합니다!
+The currently selected window is shown by a yellow border around it.,현재 선택되어있는 창은 주위에 노란색 테두리로 표시됩니다.
+"The tutorial is now complete, we hope you enjoy your time using OVR Toolkit!",이제 튜토리얼이 완료되었습니다. OVR Toolkit과 함께 즐거운 시간을 보내시기 바랍니다!
+There are upcoming events for this game!,이 게임에 대한 다가오는 이벤트가 있습니다!
+These will appear on your wristwatch in VR,VR내의 손목시계에 표시됩니다.
+This fix will link your SteamVR Resolution to your overlay supersampling. (Up to 150 ),이를 통해 사용자의 SteamVR 해상도를 오버레이 슈퍼샘플링과 연동 시킬 수 있습니다. (최대 150)
+"This will set the default settings used on all newly spawned windows, are you sure?",이렇게 하면 새로 생성된 모든 창에 사용되는 기본 설정이 설정됩니다. 계속하시겠습니까?
+This workaround will trick SteamVR into thinking your PC is faster than it is so the overlay resolution will be increased.,이 해결 방법은 SteamVR이 PC가 현재보다 더 빠르다고 생각하도록 속여서 오버레이 해상도를 높일 것입니다.
+Those are the basics of using OVR Toolkit! Find more info on our wiki or on our Discord!,이것들은 OVR 툴킷의 기본 사용법입니다! Wiki 나 Discord에서 더 많은 정보를 확인해보세요!
+Tilt,경사
+Tilt Back,뒤로 기울이기
+Tilt Down,아래로 기울이기
+Tilt Forward,앞으로 기울이기
+Tilt Left,왼쪽으로 기울이기
+Tilt Right,오른쪽으로 기울이기
+Tilt Up,위로 기울이기
+Time visible,시간 표시
+Timer,시간제 노동자
+Timer cancelled,타이머 취소됨
+Timer set,타이머 세트
+"To configure, recenter your view in game then open Edit Mode","창이 올바른 위치에 놓일 때까지 시야의 중심을 다시 맞추십시오.
+
+'R'을 눌러 창 위치를 다시로드하십시오.
+
+보정을 마치려면 Enter를 누르십시오. (또는 VR 컨트롤러를 사용하여 편집 모드 토글)"
+"To move windows, hold the grip button near them whilst in 'Edit Mode'.",창을 이동하려면 '편집 모드'에서 그립 버튼을 창 가까이로 잡으십시오.
+"To resize a window, hold both 'A' buttons and move your hands apart or together.",창 크기를 조정하려면 양 손의 'A'버튼을 모두 누른 상태에서 손을 벌리거나 모으십시오.
+"To resize a window, hold both 'Grip' buttons and move your hands apart or together.",창의 크기를 조정하려면 양 손의 '그립'버튼을 모두 누른 상태에서 두 손을 벌리거나 모으십시오.
+"To select which window you are editing open 'Window List', navigate to the window you would like to edit, then press 'Enter'.",편집중인 창을 선택하려면 '창 목록'을 열고 편집 할 창으로 이동 한 다음 'Enter'를 누릅니다.
+To toggle 'Edit Mode' double press both grip buttons at the same time.,"""편집 모드""를 전환하려면 양 손의 그립 버튼을 동시에 두 번 누르십시오."
+Toggle,토글
+Toggle 'Simulator Mode' menu:,'시뮬레이터 모드'메뉴 전환 :
+Toggle Windows,토글 창
+Top,상단
+"Touchscreen input, touchpad scrolling, grip resizing","터치 스크린 입력, 터치 패드 스크롤, 그립 크기 조정"
+TouchscreenOff,터치스크린 에뮬레이션 비활성화됨
+TouchscreenOn,터치스크린 에뮬레이션 활성화됨
+Tracked device,추적된 장치
+Trigger down,트리거 누름
+Trigger up,트리거 뗌
+Tutorial,튜토리얼
+Tutorial finished,튜토리얼 완료
+Unsubscribe,구독 취소
+Unsupported,지원되지 않는
+Up,위로
+Upcoming Event,다가오는 이벤트
+Upcoming Events,다가오는 이벤트들
+Update Event,업데이트 이벤트
+Use 24 hour time,24시간 시간형식 사용
+"Use arrow keys to navigate the menu. Enter to select, Backspace to go back.",화살표 키를 사용하여 메뉴를 탐색하세요. 뒤로 돌아가려면 백 스페이스를 누르세요.
+Use both touchpads,양 손의  터치 패드 모두 사용
+Use compact UI,컴팩트 한 UI 사용
+Use grip window resizing,그립 이용 창 크기 조정 사용
+Use media keys,미디어 키 사용
+Use right arrow key to access favourite windows.,오른쪽 화살표 키를 사용하여 즐겨 찾는 창에 액세스하십시오.
+Use the on-screen movement controls to manipulate the window's position.,화면의 이동 컨트롤을 사용하여 창의 위치를 ​​조작합니다.
+Use touchpad resizing,터치 패드 크기 조정 사용
+Use touchpad scrolling,터치 패드 스크롤 사용
+Use touchpad window moving,터치 패드 창 이동 사용
+Use touchscreen input,터치 스크린 입력 사용
+VIVE Wireless stats,VIVE 무선 통계
+VR Controllers,VR 컨트롤러
+Vertical,세로
+Video guides:,영상 가이드 :
+Visibility,시인성
+Voice Input,음성 입력
+"Voice recognition can be stopped and started by the voice input bar on top of the keyboard. For VRChat Chatbox output, ensure you click the 'VRC' button!",음성 인식은 키보드 상단의 음성 입력 바에서 중지 및 시작할 수 있습니다. VRChat Chatbox 출력을 위해서는 'VRC' 버튼을 꼭 눌러주세요!
+Volume,음량
+Welcome to OVR Toolkit!,OVR 툴킷에 오신 것을 환영합니다!
+"Whilst holding a window, push up or down on the Joystick to push the window forwards or backwards.",창을 잡고있는 동안 조이스틱을 위아래로 밀어 창을 앞뒤로 밉니다.
+"Whilst holding a window, push up or down on the Trackpad to push the window forwards or backwards.",창을 잡고있는 동안 트랙 패드를 위아래로 밀어 창을 앞뒤로 밉니다.
+Wiki,위키
+Window Cropping,창 크롭
+Window List,창 목록
+Window Settings,창 설정
+Window docking,창 도킹
+Window movement,창 이동
+Window moving when not in Edit Mode,편집 모드가 아닐 때 창 이동
+Window selection,창 선택
+Windows,창 목록
+Windows face headset,창이 헤드셋을 향하도록
+Windows notifications,Windows 알림
+Workshop Subscriptions,워크샵 구독
+Would you like to take a short tutorial on how it works?,사용 방법에 대한 짧은 튜토리얼을 확인하시겠습니까?
+Wristwatch,손목 시계
+Yes,예
+You can keep windows visible by clicking the 'Pin' icon below them when in 'Edit Mode'.,'편집 모드'에서 창 아래에있는 '핀' 아이콘을 클릭하여 창을 계속 볼 수 있습니다.
+Your SteamVR Resolution will be linked to your overlay resolution. (Up to 150 ),SteamVR 해상도는 오버레이 해상도와 연결됩니다. (최대 150%)
+"Your event starts in 5 minutes, please ensure your Join Instructions are set!",당신의 이벤트가 5분 후에 시작됩니다. 참가 지침이 설정되어 있는지 확인하세요!

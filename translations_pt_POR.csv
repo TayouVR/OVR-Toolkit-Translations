@@ -1,0 +1,476 @@
+"(Or, hold 'Enter' to start - Hold 'Esc' to skip)","(Ou, segure 'Enter' para iniciar - Segure 'Esc' para pular)"
+- Automatically stops listening,- Pára de ouvir automaticamente
+- Includes grammar,- Inclui gramática
+- Lower accuracy,- Menor precisão
+- Much higher accuracy,- Precisão muito maior
+- Multi-language support,- Suporte multilíngue
+- Requires 'Chrome' to be installed,- Requer 'Chrome' para ser instalado
+1. Never launch OVR Toolkit through Oculus Home -This may launch the application incorrectly. 2. Please refer to the 'Oculus' page on our Wiki (by the button above) if OVR Toolkit doesn't appear in your games due to the game not running through OpenVR. 3. Please note that running games through OpenVR may reduce their performance as you will be rendering SteamVR and the Oculus compositor. This is unavoidable with any overlay application on Steam! Don't hesitate to join our Discord for help! :),"1. Nunca inicie o OVR Toolkit através do Oculus Home. Isso pode iniciar o aplicativo incorretamente.
+
+2. Consulte a página 'Oculus' em nosso Wiki (pelo botão acima) se o OVR Toolkit não aparecer nos seus jogos devido ao jogo não ser executado no OpenVR.
+
+3. Observe que a execução de jogos pelo OpenVR pode reduzir o desempenho deles, pois você renderizará o SteamVR e o compositor Oculus. Isso é inevitável com qualquer aplicativo de sobreposição no Steam!
+
+Não hesite em se juntar ao nosso Discord para obter ajuda! :)"
+Accent brightness,Brilho de destaque
+Accent colour,Cor de destaque
+Add Hotkey,Adicionar tecla de atalho
+Add Module,Adicionar Módulo
+Add key press,Adicionar pressionamento de tecla
+Add macro,Adicionar macro
+Add new module,Adicionar novo módulo
+Admin check failed,Falha na verificação do administrador
+Advanced,Avançado
+Alarm,Alarme
+Alarm cancelled,Alarme cancelado
+Alarm set:,Alarme definido:
+Alt tab on changing windows:,Guia Alt para alterar as janelas:
+An event you're interested in is starting in under 1 hour!,Um evento no qual você está interessado começará em menos de 1 hora!
+An event you're interested in is starting in under 30 minutes!,Um evento do seu interesse começará em menos de 30 minutos!
+An event you're interested in is starting! Open Edit Mode for join instructions.,Um evento de seu interesse está começando! Abra o Modo de Edição para obter instruções de junção.
+Angle snapping,Angle snapping
+"Angle snapping, face headset, automatic curving","Ajuste de ângulo, fone de ouvido facial, curva automática"
+Are you sure?,Você tem certeza?
+Attach fpsVR,Anexar fpsVR
+Attach to HMD,Anexar ao HMD
+Attached,Em Anexo
+Author,Autor
+Auto performance adjustments:,Ajustes de desempenho automático:
+Automatically alt tab into games:,Guia alternativo automaticamente para jogos:
+Automatically curve windows,Janelas curvas automaticamente
+Back,Costas
+Background,Fundo
+"Background image, keyboard language, Steam Workshop, accent colours","Imagem de fundo, cores de destaque, notificações, luz noturna"
+Backspace,Backspace
+Backwards,Para Trás
+Base Author,Autor Base
+Best effort (Intensive!),Melhor esforço (intensivo!)
+Best effort can only be used with desktop captures!,O melhor esforço pode ser usado apenas com capturas de desktop!
+Best effort cannot be used on monitors not connected to your main GPU!,O melhor esforço não pode ser usado em monitores não conectados à sua GPU principal!
+Block Input to other applications,Bloquear entrada para outros aplicativos
+Block cursor input,Bloquear entrada do cursor
+Block input,Entrada de bloco
+Bottom,Inferior
+Brightness Range,Faixa De Brilho
+Bring to me,Traga para mim
+Calibrating battery monitoring,Calibrando monitoramento de bateria
+Cancel,Cancelar
+Cancel alarm through the Wristwatch clock tab.,Cancele o alarme através da guia Relógio de pulso.
+Cancel timer through the Wristwatch clock tab.,Cancele o cronômetro na guia Relógio de pulso.
+Category,Categoria
+Change profile,Mudar perfil
+Changing the hiding angle is only possible when the overlay is attached to a device.,A alteração do ângulo de ocultação só é possível quando a sobreposição está conectada a um dispositivo.
+Charging,Cobrando
+Chroma key,Chroma key
+Chroma key enabled,Chroma key habilitado
+Clean install,Instalação limpa
+Click 'Set Contents' to change what a window is displaying.,Clique em 'Definir conteúdo' para alterar o que a janela está exibindo.
+Click 'Spawn Window' to create a new window.,Clique em 'Spawn Window' para criar uma nova janela.
+Click hotkeys to remove,Clique nas teclas de atalho para remover
+Click or press 'R' to search again.,Clique em 'Pesquisar' ou pressione 'R' para pesquisar novamente.
+Click the gear icon to open Edit Mode,Clique no ícone de engrenagem para abrir o Modo de edição
+Close,Fechar
+Close 'Edit Mode' again by clicking the gear icon.,Feche o 'Modo de edição' novamente clicando no ícone de engrenagem.
+Close 'Edit Mode' again by pressing F8.,Feche o 'Modo de Edição' novamente pressionando F8.
+Close all windows,Feche todas as janelas
+Close the dashboard to use OVR Toolkit,Feche o painel para usar o OVR Toolkit
+"Closing 'Edit Mode' will only close the menu. To toggle your created windows on and off without entering or exiting Edit Mode, press F7.","Fechar o 'Modo de edição' apenas fechará o menu.
+Para ativar e desativar as janelas criadas sem entrar ou sair do Modo de Edição, pressione F7."
+"Closing 'Edit Mode' will toggle off your windows, however, you can keep them visible by enabling the 'Keep Visible' option in 'Window Settings'.","Fechar o 'Modo de edição' desativará suas janelas, no entanto, você pode mantê-las visíveis ativando a opção 'Manter visível' em 'Configurações da janela'."
+"Compact UI, legacy Edit Mode, resize menu","IU compacta, modo de edição legado, menu de redimensionamento"
+Configure wrist overlay,Configurar sobreposição de pulso
+Confirm,Confirme
+"Connection lost, please restart OVR Toolkit!","Conexão perdida, reinicie o OVR Toolkit!"
+Continuous voice recognition,Reconhecimento de voz contínuo
+Crashed? Try this:,Crashed? Experimente isto:
+Create,Crio
+Create Event,Criar Evento
+Credits:,Créditos:
+Crop window,Janela Recortar
+Current windows,Janelas atuais
+Curve,Curva
+Curved overlays,Sobreposições curvas
+Curved overlays are only available when a window isn't attached to a controller,As sobreposições curvas só estão disponíveis quando uma janela não está conectada a um controlador
+Custom icons,Ícones personalizados
+Customise,Customizar
+Customize background,Personalizar plano de fundo
+Cycle Profile Backwards,Ciclo De Perfil Para Trás
+Cycle Profile Forward,Ciclo De Perfil Para A Frente
+Delete,Excluir
+Delete event?,Excluir evento?
+Delete preset,Excluir predefinição
+Description,Descrição
+"Description too long, please limit to 3000 characters.","Descrição muito longa, limite a 3.000 caracteres."
+Desktop,Área De Trabalho
+Disable GPU Capture,Desabilitar Captura Gpu
+Disable sound,Desativar som do teclado
+Display RAM instead of VRAM,Exibir RAM em vez de VRAM
+Display remaining battery in minutes,Exibir bateria restante em minutos
+Do you want to start this application?,Deseja iniciar esta aplicação?
+Don't show again,Não mostra de novo
+Don't use Steam or Discord? Send me an e-mail at: curtis@ovrtoolkit.co.uk,Não usa Steam ou Discord? Envie-me um e-mail para: curtis@ovrtoolkit.co.uk
+Down,Baixa
+Drop a window on the attach point on a hand to attach a window to your hand.,Solte uma janela no ponto de anexação em uma mão para prender uma janela em sua mão.
+Drop a window on the detach point to detatch the window from your hand.,Solte uma janela no ponto de separação para separar a janela de sua mão.
+Eco Mode,Modo Eco
+Eco Mode is still enabled. Disable it in 'Window Settings' to keep higher frame rate.,O Modo Eco ainda está ativado. Desative-o em 'Configurações da janela' para manter a taxa de quadros mais alta.
+Edit Mode,Modo De Edição
+"Edit Mode allows you to create new windows, move them, and select what they display.","O Modo de Edição permite criar novas janelas, movê-las e selecionar o que elas exibem."
+Edit controller bindings,Editar ligações do controlador
+Edit hotkeys,Editar teclas de atalho
+Educational,Educacional
+Enable Performance Mode,Ativar O Modo Econômico
+Enable UI moving,Ativar o menu do modo de edição em movimento
+Enable rotation lock,Ativar bloqueio de rotação
+Enable swipe typing,Ativar digitação
+Enable window docking,Ativar encaixe de janela
+Enable word suggestions,Ativar sugestões de palavras
+Enable wrist UI moving,Ativar relógio de pulso em movimento
+Enable wrist overlay,Ativar sobreposição de pulso
+"Enable, switch hands, change modules, resize overlay","Habilitar, trocar de mãos, alterar módulos, redimensionar sobreposição"
+End,Fim
+Enter the 'Window List' menu and select 'Spawn Window'.,Entre no menu 'Lista de janelas' e selecione 'Janela de Spawn'.
+Enter the 'Window Settings' menu and select 'Move Window'.,Entre no menu 'Configurações da janela' e selecione 'Mover janela'.
+Enter the 'Window Settings' menu and select 'Set Contents' to change what a window displays.,Entre no menu 'Configurações da janela' e selecione 'Definir conteúdo' para alterar o que a janela exibe.
+Event Name:,Nome Do Evento:
+Event Starting,Evento Começando
+Events,Eventos
+"Events doesn't support this game yet, sorry!","Eventos ainda não suporta este jogo, desculpe!"
+Exercise,Exercício
+External Link:,Link Externo:
+Fade out,Desvanecer quando fora de foco
+Find new content,Encontre novo conteúdo
+Find new keyboards,Encontre novos teclados
+Fix,Fixar
+Fix startup,Arranque de correção
+Flip Horizontal,Virar Na Horizontal
+Flip Vertical,Virar Vertical
+Force GPU Capture,Usar Captura GPU
+Forward,Frente
+Framerate,Taxa De Quadros
+Full,Cheio
+Game,Jogos
+Game input blocking,Bloqueio de entrada do jogo
+Games,Jogos
+Get content,Obter conteudo
+Global Settings,Configurações Globais
+Hand tracking:,Rastreamento de mão:
+Head gaze,Olhar de cabeça
+Hide keyboard controls,Ocultar controles do teclado
+Hide when not looking at window,Mostrar apenas quando estiver à vista
+Hide when past hide distance,Ocultar quando a distância oculta
+Hide wrist overlay when not visible,Ocultar a cobertura do pulso quando não estiver visível
+High priority process:,Processo de alta prioridade:
+Hold 'A' near a window to move it. (Optionally use 'Grip'),"Segure 'A' perto de uma janela para movê-la.
+(Opcionalmente, use 'Grip')"
+Hold 'Grip' near a window to move it.,Segure 'Grip' perto de uma janela para movê-lo.
+Holding 'Shift' will move windows faster. Holding 'Alt' will move windows slower.,"Segurar 'Shift' moverá as janelas mais rapidamente.
+Segurar 'Alt' moverá as janelas mais lentamente."
+Home,Casa
+How to,Como
+How to enable,Como habilitar
+"How to use: Use the 'Spawn Mask' button to create objects that will hide parts of the window. Move masks around by holding the Trigger on them and dragging. Masks will show as white whilst in the cropping menu, but will be see-through once you close the menu.","Como usar:
+
+Use o botão 'Spawn Mask' para criar objetos que irão esconder partes da janela.
+
+Mova as máscaras segurando o gatilho nelas e arrastando.
+
+As máscaras serão exibidas em branco enquanto estiver no menu de corte, mas serão transparentes quando você fechar o menu."
+Hue Range,Faixa De Matiz
+I understand,Compreendo
+Icon,Ícone
+Icon must be 100x100 pixels!,O ícone deve ter 100x100 pixels!
+Ignore,Ignorar
+Important information for Oculus users,Informações importantes para usuários do Oculus
+Individual,Individual
+Input,Entrada
+Interested,Interessado
+Interface,Interface
+Invalid Join Link! Maybe the event host didn't set one?,Link de entrada inválido! Talvez o anfitrião do evento não tenha definido um?
+"Invalid event category, please select one!","Categoria de evento inválida, selecione uma!"
+"Invalid event description, must not be empty!","Descrição do evento inválida, não deve estar vazia!"
+"Invalid event join instructions, must not be empty!","Instruções de junção de evento inválidas, não devem estar vazias!"
+"Invalid event name, must not be empty!","Nome de evento inválido, não deve estar vazio!"
+"Invalid event time, must be within 14 days!","Hora do evento inválida, deve ser dentro de 14 dias!"
+"Invalid event time, must not be in the past!","Hora do evento inválida, não deve estar no passado!"
+It may take some time for minutes remaining to appear!,Pode demorar algum tempo para que os minutos restantes apareçam!
+Join,Junte
+"Join Instructions too long, please limit to 400 characters.",Instruções de participação muito longas. Limite a 400 caracteres.
+Join Instructions:,Instruções De Junção
+Join URL (Optional),URL De Junção (Opcional)
+Keep holding grip to move,Continue segurando o punho para mover
+Keep visible,Mantenha-se visível
+Keyboard,Teclado
+Keyboard controls,Controles de teclado / joystick
+Known Applications,Aplicações Conhecidas
+Language selection is not possible for 'Speech Proxy'.,A seleção de idioma não é possível para 'Speech Proxy'.
+Larger,Maior
+"Later, you can click 'Edit Shortcuts' to create shortcuts for displaying specific applications.","Mais tarde, você pode clicar em 'Editar atalhos' para criar atalhos para exibir aplicativos específicos."
+Left,Esquerda
+Left click,Clique esquerdo
+Legacy Edit Mode,Modo De Edição Legado
+Loading...,Carregando...
+Look at your left wrist,Olhe para o seu pulso esquerdo
+Looks like there's no events at the moment! Maybe create one?,"Parece que não há eventos no momento!
+Talvez criar um?"
+Low Battery,Bateria Fraca
+Macros,Macros
+Main,A Principal
+Maintain width,Manter largura
+Master,Mestre
+Media Applications,Aplicativos De Mídia
+Media controls,Controles de mídia
+Media profanity filter,Filtro de palavrões da mídia
+Menu Back,Menu De Volta
+Menu Controls,Controles De Menu
+Menu Down,Menu Para Baixo
+Menu Left,Menu À Esquerda
+Menu Right,Menu Direito
+Menu Select,Selecionar Menu
+Menu Up,Menu Acima
+Menu Visible,Menu Visível
+Minimize menu on open,Menu Minimizar ao abrir
+Minimize on startup:,Minimizar na inicialização:
+Misc,Misc
+More will add to this menu as you use different media applications.,Mais serão adicionados a este menu à medida que você usa diferentes aplicativos de mídia.
+Mouse smoothing,Suavização do mouse
+Move all windows,Mover todas as janelas
+Move delay,Mover atraso
+Move window,Mover janela
+Name,Nome
+"Name too long, please limit to 60 characters.","Nome muito longo, limite a 60 caracteres."
+"Navigate the menu by using the arrow keys, Enter, and Backspace.","Navegue no menu usando as teclas de seta, Enter e Backspace.
+
+"
+Navigation,Navegação
+Need help? Position the window so that the center of it is close to the attach point. The circle around the attach point will shrink as you move the window closer.,Preciso de ajuda? Posicione a janela de forma que o centro dela fique próximo ao ponto de anexação. O círculo ao redor do ponto de anexação diminuirá à medida que você aproximar a janela.
+Next,Next
+Night light,Luz noturna
+Night light will enable with the Windows night light,A luz noturna será ativada com a luz noturna do Windows
+No,Não
+"No events found, maybe create one?","Nenhum evento encontrado, talvez crie um?"
+None,Nenhum
+Not Interested,Não Interessado
+Not starting?,Não está começando?
+"Not using VR controllers? When in VR, press F8!","Não está usando controladores VR? Quando estiver em VR, pressione F8!"
+Note3,Nota
+Notifications Enabled,Notificações Habilitadas
+Notifications opacity,Opacidade de notificações
+Notifications size,Tamanho das notificações
+"OVR Toolkit is starting, please wait!","O OVR Toolkit está começando, aguarde!"
+OVR Toolkit isn't running as admin! The program may not function correctly.,OVR Toolkit não está sendo executado como administrador! O programa pode não funcionar corretamente.
+Okay,OK
+"Once selected, release the 'Ctrl' key to start moving the window.","Uma vez selecionado, solte a tecla 'Ctrl' para começar a mover a janela."
+Only block input in Edit Mode,Bloquear entrada somente no modo de edição
+Opacity,Opacidade
+Open link,Link aberto
+Open log folder,Abrir pasta de log
+Opened link in your browser.,Link aberto no seu navegador.
+Orientation,Orientação
+Overlay Quality,Qualidade De Sobreposição
+Overlay quality is determined automatically by SteamVR with no user or developer option to change it.,A qualidade da sobreposição é determinada automaticamente pelo SteamVR sem nenhuma opção de usuário ou desenvolvedor para alterá-la.
+Overlay quality reduced - Click for more details,Qualidade de sobreposição reduzida - Clique para mais detalhes
+Performance stats,Estatísticas de desempenho
+Persist between profiles,Persistir entre perfis
+Pick colour,Escolha a cor
+Picking...,Escolhendo ...
+Pin window,Mantenha-se visível
+Play Pause,A Pausa
+Play music in loading screen,Reproduzir música na tela de carregamento
+Player Limit,Limite De Jogadores
+Player limit too high! 150 max.,Limite de jogadores muito alto! 150 máx.
+Player limit too low!,Limite de jogadores muito baixo!
+Please attach the 'Player' and 'Player-Last' log files from the following folder to help fix your issue:,Anexe os arquivos de registro 'Player' e 'Player-Last' da seguinte pasta para ajudar a corrigir o seu problema:
+Please do not hesitate to join us on Discord to provide feedback or suggestions to improve the experience!,Não hesite em juntar-se a nós no Discord para fornecer comentários ou sugestões para melhorar a experiência!
+"Please join us on Discord for the fastest response, or, post on the Steam Discussions!",Junte-se a nós no Discord para uma resposta mais rápida ou poste nas discussões do Steam!
+"Please join us on Discord, or, check out the video tutorial to learn more about using OVR Toolkit.",Junte-se a nós no Discord ou confira o tutorial em vídeo para saber mais sobre como usar o OVR Toolkit.
+Please put your headset on to start using OVR Toolkit!,"Por favor, coloque seu fone de ouvido
+para começar a usar o OVR Toolkit!"
+Please restart SteamVR!,"Por favor, reinicie o SteamVR!"
+Presets,Presets
+Press 'Enter' to close the tutorial.,Pressione 'Enter' para fechar o tutorial.
+Press Backspace to finish,Pressione Backspace para concluir
+Press Backspace to stop moving.,Pressione Backspace para parar de se mover.
+"Press Delete to delete a window, Insert to bring the window into view.","Pressione 'Excluir' para excluir uma janela, 'Inserir' para exibir a janela, 'Enter' / 'Retornar' para selecionar uma janela."
+Press F to favourite,Pressione F para favorito
+Press F8 key,Pressione a tecla F8
+Previous,Anterior
+Profile switcher,Alternador de perfil
+Profiles,Perfis
+Quit,Sair
+Re-center,Centrar novamente
+Re-center window,Centralizar novamente a janela
+"Re-center window will position windows relative to your headset each time you toggle your overlays, useful when using 'playspace mover' applications.","A janela de recentralização posicionará as janelas em relação ao seu fone de ouvido sempre que você alternar suas sobreposições, útil ao usar aplicativos 'playspace mover'."
+Ready to use,Pronto para usar
+Rebind,Religar
+Recenter snap angle,Recentralizar o ângulo de encaixe
+Recenter windows,Janelas recentes
+Refresh list,Atualizar lista
+Remember UI minimized state,Lembre-se do estado minimizado da interface do usuário
+Report bug,Reportar bug
+Requires manual setup,Requer configuração manual
+Reset,Redefinir
+Reset UI location,Redefinir local da interface do usuário
+Reset UI position,Redefinir posição da interface do usuário
+Reset keyboard position,Redefinir a posição do teclado
+Reset settings,Redefinir as configurações
+Reset to default keyboard,Redefinir para o teclado padrão
+Reset tutorial,Redefinir tutorial
+Resize,Redimensionar
+Resize menu,Redimensionar menu
+Resize window,Redimensionar janela
+Resize wrist overlay,Redimensionar sobreposição de pulso
+Restart Application,Reinicie O Aplicativo
+Right,Certo
+Right click,Clique com o botão direito
+Rotate left,Vire à esquerda
+Rotate right,Vire à direita
+Running,Corrida
+Saturation Range,Faixa De Saturação
+Save,Salve 
+Save changes,Salvar alterações
+Saved,Salvou
+Scroll down,Rolar para baixo
+Scroll up,Rolar para cima
+Search,Procurar
+Select,Selecionar
+Select Icon,Selecione O Ícone
+Select Media Applications,Selecione Aplicativos De Mídia
+Select Window,Selecionar Janela
+Select a window,Selecione uma janela
+Select a window by clicking on it to use Window Settings!,Selecione uma janela clicando nela para usar as Configurações da Janela!
+Select content,Selecione o conteúdo
+Select keyboard,Selecionar teclado
+Select microphone,Selecione o microfone
+Select wrist watch size,Selecione o tamanho do relógio de pulso
+Select your preffered wrist watch size,Selecione o tamanho de seu relógio de pulso preferido
+Selected file is not a PNG file!,O arquivo selecionado não é um arquivo PNG!
+Set as default,Definir como padrão
+Set contents,Definir conteúdo
+Settings,Definições
+Setup hotkeys for faster window switching!,Configure teclas de atalho para alternar mais rapidamente as janelas!
+Setup wrist macros,Configurar macros de pulso
+Show and hide your windows by double pressing both 'A' buttons.,Mostre e oculte suas janelas pressionando duas vezes os botões 'A'.
+Show and hide your windows by double pressing both 'Grip' buttons.,Mostre e oculte suas janelas pressionando duas vezes os botões 'Grip'.
+Show events on game start,Mostrar eventos no início do jogo
+Show in front,Sempre no topo
+Show playing media in Chatbox,Mostrar mídia em reprodução no Chatbox
+Side-by-Side 3D Crossed,3D lado a lado cruzado
+Side-by-Side 3D Parralel,Paralelo 3D Lado a Lado
+Simple,Simples
+Skip tutorial,Pular tuturial
+Smaller,Menor
+Social,Social
+"Sounds, word suggestions, rotation lock, microphone","Sons, sugestões de palavras, bloqueio de rotação, microfone"
+Spawn Mask,Máscara De Desova
+Spawn Window,Janela De Desova
+Spawn another window from the 'Window List' menu.,Abra outra janela a partir do menu 'Lista de janelas'.
+Spawn new window,Spawn nova janela
+Speech API,API De Fala
+Speech language,Linguagem fonoaudiológica
+Start,Começar
+Start a game to see Events!,Comece um jogo para ver os eventos!
+Start application,Iniciar aplicação
+Start tutorial,Iniciar tutorial
+Started:,Começado:
+Startup complete! You can now use OVR Toolkit!,Inicialização concluída! Agora você pode usar o OVR Toolkit!
+Startup errors,Erros de inicialização
+Startup messages,Mensagens de inicialização
+Steam Workshop,Oficina A Vapor
+Subscribe,Se Inscrever
+Subscribed Items,Itens Inscritos
+Switch Profile,Mudar De Perfil
+Switch Window,Mudar Janela
+Switch menu hand,Alternar ponteiro de menu
+Switch overlay hand,Alternar mão de sobreposição
+Tab into game,Entre no jogo
+Tab out on window toggle:,Tab out na janela de alternância:
+Thank you for choosing OVR Toolkit!,Obrigado por escolher o OVR Toolkit!
+The currently selected window is shown by a yellow border around it.,A janela atualmente selecionada é mostrada por uma borda amarela ao redor dela.
+"The tutorial is now complete, we hope you enjoy your time using OVR Toolkit!","O tutorial agora está completo, esperamos que você aproveite seu tempo usando o OVR Toolkit!"
+There are upcoming events for this game!,Há eventos futuros para este jogo!
+These will appear on your wristwatch in VR,Estes aparecerão no seu relógio de pulso em VR
+This fix will link your SteamVR Resolution to your overlay supersampling. (Up to 150 ),
+"This will set the default settings used on all newly spawned windows, are you sure?","Isso definirá as configurações padrão usadas em todas as janelas recém-geradas, tem certeza?"
+This workaround will trick SteamVR into thinking your PC is faster than it is so the overlay resolution will be increased.,"Esta solução fará com que o SteamVR pense que seu PC é mais rápido do que é, então a resolução de sobreposição será aumentada."
+Those are the basics of using OVR Toolkit! Find more info on our wiki or on our Discord!,Esses são os princípios básicos do uso do OVR Toolkit! Encontre mais informações em nosso wiki ou em nosso Discord!
+Tilt,Inclinar
+Tilt Back,Inclinar Para Trás
+Tilt Down,Inclinar Para Baixo
+Tilt Forward,Inclinar Para Frente
+Tilt Left,Incline Para A Esquerda
+Tilt Right,Incline Para A Direita
+Tilt Up,Inclinar Para Cima
+Time visible,Tempo visível
+Timer,Cronômetro
+Timer cancelled,Temporizador cancelado
+Timer set,Temporizador definido
+"To configure, recenter your view in game then open Edit Mode","Centralize novamente sua visão até que as janelas estejam na posição correta.
+
+Pressione 'R' para recarregar as posições da janela.
+
+Pressione Enter para concluir a calibração. (Ou alterne o Modo de edição com controladores VR)"
+"To move windows, hold the grip button near them whilst in 'Edit Mode'.","Para mover as janelas, mantenha o botão de aperto próximo a elas enquanto estiver no 'Modo de Edição'."
+"To resize a window, hold both 'A' buttons and move your hands apart or together.","Para redimensionar uma janela, segure os dois botões 'A' e afaste ou junte as mãos."
+"To resize a window, hold both 'Grip' buttons and move your hands apart or together.","Para redimensionar uma janela, segure os dois botões 'Grip' e afaste ou junte as mãos."
+"To select which window you are editing open 'Window List', navigate to the window you would like to edit, then press 'Enter'.","Para selecionar a janela que você está editando, abra a 'Lista de janelas', navegue até a janela que deseja editar e pressione 'Enter'."
+To toggle 'Edit Mode' double press both grip buttons at the same time.,"Para alternar o 'Modo de edição', pressione duas vezes os dois botões de pressão ao mesmo tempo."
+Toggle,Alternancia
+Toggle 'Simulator Mode' menu:,Alternar o menu 'Modo Simulador':
+Toggle Windows,Alternar Janelas
+Top,Principal
+"Touchscreen input, touchpad scrolling, grip resizing","Entrada de tela sensível ao toque, rolagem do touchpad, redimensionamento da alça"
+TouchscreenOff,Emulação de touchscreen DESATIVADA
+TouchscreenOn,Emulação de touchscreen ATIVADA
+Tracked device,Dispositivo rastreado
+Trigger down,Gatilho para baixo
+Trigger up,Acionar para cima
+Tutorial,Tutorial
+Tutorial finished,Tutorial terminado
+Unsubscribe,탈퇴
+Unsupported,Não Suportado
+Up,Acima
+Upcoming Event,Próximos Eventos
+Upcoming Events,Próximos Eventos
+Update Event,Evento De Atualização
+Use 24 hour time,Use o tempo de 24 horas
+"Use arrow keys to navigate the menu. Enter to select, Backspace to go back.",Use as setas para navegar no menu. Enter para selecionar Backspace para voltar.
+Use both touchpads,Use ambos os touchpads
+Use compact UI,Use interface do usuário compacta
+Use grip window resizing,Usar redimensionamento da janela de aderência
+Use media keys,Use chaves de mídia
+Use right arrow key to access favourite windows.,Use a tecla de seta para a direita para acessar as janelas favoritas.
+Use the on-screen movement controls to manipulate the window's position.,Use os controles de movimento na tela para manipular a posição da janela.
+Use touchpad resizing,Use o redimensionamento do touchpad
+Use touchpad scrolling,Use a rolagem do touchpad
+Use touchpad window moving,Use a janela do touchpad em movimento
+Use touchscreen input,Usar entrada da tela sensível ao toque
+VIVE Wireless stats,Estatísticas VIVE Wireless
+VR Controllers,Controladores VR
+Vertical,Vertical
+Video guides:,Guias de vídeo:
+Visibility,Visibilidade
+Voice Input,Entrada De Voz
+"Voice recognition can be stopped and started by the voice input bar on top of the keyboard. For VRChat Chatbox output, ensure you click the 'VRC' button!","O reconhecimento de voz pode ser interrompido e iniciado pela barra de entrada de voz na parte superior do teclado. Para a saída do VRChat Chatbox, certifique-se de clicar no botão 'VRC'!"
+Volume,Volume
+Welcome to OVR Toolkit!,Bem-vindo ao OVR Toolkit!
+"Whilst holding a window, push up or down on the Joystick to push the window forwards or backwards.","Enquanto segura uma janela, empurre o Joystick para cima ou para baixo para empurrar a janela para frente ou para trás."
+"Whilst holding a window, push up or down on the Trackpad to push the window forwards or backwards.","Enquanto segura uma janela, empurre o Trackpad para cima ou para baixo para empurrar a janela para frente ou para trás."
+Wiki,Wiki
+Window Cropping,Corte De Janela
+Window List,Lista De Janelas
+Window Settings,Configurações Da Janela
+Window docking,Encaixe de janela
+Window movement,Movimento da janela
+Window moving when not in Edit Mode,Janela se movendo quando não está no modo de edição
+Window selection,Seleção de janela
+Windows,Janelas
+Windows face headset,Windows enfrenta fone de ouvido
+Windows notifications,Notificações do Windows
+Workshop Subscriptions,Inscrições Em Oficinas
+Would you like to take a short tutorial on how it works?,Gostaria de fazer um breve tutorial sobre como funciona?
+Wristwatch,Relógio De Pulso
+Yes,Sim
+You can keep windows visible by clicking the 'Pin' icon below them when in 'Edit Mode'.,Você pode manter as janelas visíveis clicando no ícone 'Pin' abaixo delas quando estiver no 'Modo de Edição'.
+Your SteamVR Resolution will be linked to your overlay resolution. (Up to 150 ),Sua resolução do SteamVR será vinculada à sua resolução de sobreposição. (Até 150%)
+"Your event starts in 5 minutes, please ensure your Join Instructions are set!","Seu evento começa em 5 minutos, por favor, certifique-se de que suas Instruções de Ingresso estão definidas!"

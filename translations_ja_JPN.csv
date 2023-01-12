@@ -1,0 +1,476 @@
+"(Or, hold 'Enter' to start - Hold 'Esc' to skip)",（または、「Enter」を押したままにして開始します-「Esc」を押したままにしてスキップします）
+- Automatically stops listening,-自動的にリスニングを停止します
+- Includes grammar,-文法が含まれています
+- Lower accuracy,-精度が低い
+- Much higher accuracy,-はるかに高い精度
+- Multi-language support,-多言語サポート
+- Requires 'Chrome' to be installed,-「Chrome」がインストールされている必要があります
+1. Never launch OVR Toolkit through Oculus Home -This may launch the application incorrectly. 2. Please refer to the 'Oculus' page on our Wiki (by the button above) if OVR Toolkit doesn't appear in your games due to the game not running through OpenVR. 3. Please note that running games through OpenVR may reduce their performance as you will be rendering SteamVR and the Oculus compositor. This is unavoidable with any overlay application on Steam! Don't hesitate to join our Discord for help! :),"1. Oculus HomeからOVR Toolkitを起動しないでください-アプリケーションが正しく起動しない場合があります。
+
+2. OpenVRを介して実行されていないゲームが原因でOVRツールキットがゲームに表示されない場合は、Wikiの「Oculus」ページ（上のボタンをクリック）を参照してください。
+
+3. SteamVRとOculusコンポジターをレンダリングするため、OpenVRでゲームを実行すると、パフォーマンスが低下する可能性があることに注意してください。これは、Steamのオーバーレイアプリケーションでは避けられません！
+
+ぜひDiscordに参加してください。 :)"
+Accent brightness,アクセントの明るさ
+Accent colour,アクセントカラー
+Add Hotkey,ホットキーを追加
+Add Module,モジュールを追加
+Add key press,キープレスを追加
+Add macro,マクロを追加
+Add new module,新しいモジュールを追加する
+Admin check failed,管理者チェックが 失敗しました
+Advanced,高度
+Alarm,警報
+Alarm cancelled,アラームがキャンセルされました
+Alarm set:,アラームセット:
+Alt tab on changing windows:,ウィンドウを 切り替えるときに Alt-tabする：
+An event you're interested in is starting in under 1 hour!,興味のあるイベントが1時間以内に始まります！
+An event you're interested in is starting in under 30 minutes!,興味のあるイベントが30分足らずで始まります！
+An event you're interested in is starting! Open Edit Mode for join instructions.,興味のあるイベントが始まります！参加手順については、編集モードを開きます。
+Angle snapping,角度スナップ
+"Angle snapping, face headset, automatic curving",アングルスナップ、フェイスヘッドセット、自動カーブ
+Are you sure?,本当に閉じますか？
+Attach fpsVR,fpsVRを添付する
+Attach to HMD,HMDに接続する
+Attached,付属
+Author,著者
+Auto performance adjustments:,自動パフォーマンス調整：
+Automatically alt tab into games:,タブをゲームに自動的に変更します。
+Automatically curve windows,ウィンドウを自動的にカーブさせる
+Back,バック
+Background,背景
+"Background image, keyboard language, Steam Workshop, accent colours",背景画像、アクセントカラー、通知、常夜灯
+Backspace,バックスペース
+Backwards,後方
+Base Author,ベース著者
+Best effort (Intensive!),ベストエフォート（ インテンシブ ！）
+Best effort can only be used with desktop captures!,ベストエフォートはデスクトップキャプチャでのみ使用できます！
+Best effort cannot be used on monitors not connected to your main GPU!,メインGPUに接続されていないモニターではベストエフォートを使用できません。
+Block Input to other applications,他のアプリケーションへの入力を ブロック
+Block cursor input,カーソル入力を ブロック
+Block input,入力を ブロック
+Bottom,下
+Brightness Range,輝度範囲
+Bring to me,ウインドウを自分のところへ持ってくる
+Calibrating battery monitoring,バッテリー監視の調整
+Cancel,キャンセル
+Cancel alarm through the Wristwatch clock tab.,腕時計の時計タブからアラームをキャンセルします。
+Cancel timer through the Wristwatch clock tab.,腕時計の時計タブからタイマーをキャンセルします。
+Category,カテゴリー
+Change profile,プロフィールを変更
+Changing the hiding angle is only possible when the overlay is attached to a device.,非表示角度の変更は、オーバーレイがデバイスに接続されている場合にのみ可能です。
+Charging,充電
+Chroma key,クロマキー
+Chroma key enabled,クロマキーが有効
+Clean install,クリーンインストール
+Click 'Set Contents' to change what a window is displaying.,[コンテンツの設定]をクリックして、ウィンドウの表示内容を変更します。
+Click 'Spawn Window' to create a new window.,[スポーンウィンドウ]をクリックして、新しいウィンドウを作成します。
+Click hotkeys to remove,クリックでホットキーを 削除できます
+Click or press 'R' to search again.,「検索」をクリックするか、「R」を押して再度検索します。
+Click the gear icon to open Edit Mode,歯車アイコンをクリックして編集モードを開きます
+Close,閉じる
+Close 'Edit Mode' again by clicking the gear icon.,歯車のアイコンをクリックして、[編集モード]をもう一度閉じます。
+Close 'Edit Mode' again by pressing F8.,F8キーを押して、[編集モード]をもう一度閉じます。
+Close all windows,すべてのウィンドウを閉じる
+Close the dashboard to use OVR Toolkit,ダッシュボードを閉じてOVRツールキットを使用します
+"Closing 'Edit Mode' will only close the menu. To toggle your created windows on and off without entering or exiting Edit Mode, press F7.","「編集モード」を閉じると、メニューのみが閉じます。
+編集モードを開始または終了せずに作成したウィンドウのオンとオフを切り替えるには、F7キーを押します。"
+"Closing 'Edit Mode' will toggle off your windows, however, you can keep them visible by enabling the 'Keep Visible' option in 'Window Settings'.",「編集モード」を閉じるとウィンドウがオフになりますが、「ウィンドウ設定」の「表示を維持」オプションを有効にすることで、ウィンドウを表示したままにすることができます。
+"Compact UI, legacy Edit Mode, resize menu",コンパクトUI、レガシー編集モード、サイズ変更メニュー
+Configure wrist overlay,手首オーバーレイを構成する
+Confirm,確認
+"Connection lost, please restart OVR Toolkit!",接続が失われました。OVRToolkitを再起動してください。
+Continuous voice recognition,連続音声認識
+Crashed? Try this:,クラッシュしましたか？これを試して：
+Create,作成
+Create Event,イベントを作成する
+Credits:,クレジット：
+Crop window,クロップウィンドウ
+Current windows,"Изменение угла скрытия возможно только в том случае, если оверлей прикреплён к устройству."
+Curve,カーブ
+Curved overlays,カーブオーバーレイ
+Curved overlays are only available when a window isn't attached to a controller,カーブオーバーレイは ウィンドウがコントローラーに 付けられていないときだけ 使用できます
+Custom icons,カスタムアイコン
+Customise,カスタマイズ
+Customize background,背景をカスタマイズする
+Cycle Profile Backwards,プロファイルを逆方向​​に循環させる
+Cycle Profile Forward,サイクルプロファイルフォワード
+Delete,消去
+Delete event?,イベントを削除しますか？
+Delete preset,プリセットを削除
+Description,説明
+"Description too long, please limit to 3000 characters.",説明が長すぎます。3000文字に制限してください。
+Desktop,デスクトップ
+Disable GPU Capture,GPUキャプチャを無効にする
+Disable sound,キーボードサウンドを無効にする
+Display RAM instead of VRAM,VRAMの代わりにRAMを表示する
+Display remaining battery in minutes,バッテリー残量を分単位で表示
+Do you want to start this application?,このアプリケーションを起動しますか？
+Don't show again,今後表示しない
+Don't use Steam or Discord? Send me an e-mail at: curtis@ovrtoolkit.co.uk,SteamやDiscordを使用しませんか？私に電子メールを送ってください：curtis@ovrtoolkit.co.uk
+Down,下
+Drop a window on the attach point on a hand to attach a window to your hand.,手のアタッチポイントにウィンドウをドロップして、ウィンドウを手にアタッチします。
+Drop a window on the detach point to detatch the window from your hand.,分離ポイントにウィンドウをドロップして、ウィンドウを手から切り離します。
+Eco Mode,エコモード
+Eco Mode is still enabled. Disable it in 'Window Settings' to keep higher frame rate.,エコモードはまだ有効です。 より高いフレームレートを維持するには、「ウィンドウの設定」で無効にします。
+Edit Mode,編集モード
+"Edit Mode allows you to create new windows, move them, and select what they display.",編集モードでは、新しいウィンドウを作成して移動し、表示するものを選択できます。
+Edit controller bindings,コントローラーバインディングの編集
+Edit hotkeys,ホットキーを編集する
+Educational,教育
+Enable Performance Mode,エコモードを有効にする
+Enable UI moving,編集モード メニューの移動を有効にする
+Enable rotation lock,回転ロックを有効にする
+Enable swipe typing,スワイプタイピングを有効にする
+Enable window docking,ウィンドウのドッキングを有効にする
+Enable word suggestions,単語候補を有効にする
+Enable wrist UI moving,動く腕時計を有効にする
+Enable wrist overlay,手首オーバーレイ を有効にする
+"Enable, switch hands, change modules, resize overlay",有効化、ハンドの切り替え、モジュールの変更、オーバーレイのサイズ変更
+End,終了
+Enter the 'Window List' menu and select 'Spawn Window'.,「ウィンドウリスト」メニューに入り、「スポーンウィンドウ」を選択します。
+Enter the 'Window Settings' menu and select 'Move Window'.,「ウィンドウ設定」メニューに入り、「ウィンドウの移動」を選択します。
+Enter the 'Window Settings' menu and select 'Set Contents' to change what a window displays.,[ウィンドウ設定]メニューに入り、[コンテンツの設定]を選択して、ウィンドウの表示内容を変更します。
+Event Name:,イベント名：
+Event Starting,イベント開始
+Events,イベント
+"Events doesn't support this game yet, sorry!",イベントはまだこのゲームをサポートしていません、ごめんなさい！
+Exercise,エクササイズ
+External Link:,外部リンク：
+Fade out,フォーカスが合っていないときにフェード
+Find new content,新しいコンテンツを見つける
+Find new keyboards,新しいキーボードを探す
+Fix,修理
+Fix startup,スタートアップを修正
+Flip Horizontal,水平に反転
+Flip Vertical,垂直に反転
+Force GPU Capture,GPUキャプチャを使用する
+Forward,前方
+Framerate,フレームレート
+Full,満杯
+Game,ゲーム
+Game input blocking,ゲーム入力のブロック
+Games,ゲーム
+Get content,コンテンツを取得する
+Global Settings,設定
+Hand tracking:,ハンドトラッキング：
+Head gaze,視線
+Hide keyboard controls,キーボードコントロールを非表示にする
+Hide when not looking at window,表示されている場合にのみ表示
+Hide when past hide distance,非表示距離を過ぎるとウインドウを非表示にする
+Hide wrist overlay when not visible,見えないときに 手首のオーバーレイを非表示
+High priority process:,優先度の高いプロセス:
+Hold 'A' near a window to move it. (Optionally use 'Grip'),"ウィンドウの近くで「A」を押したままにして移動します。
+（オプションで「グリップ」を使用します）"
+Hold 'Grip' near a window to move it.,ウィンドウの近くで「グリップ」を押したままにして移動します。
+Holding 'Shift' will move windows faster. Holding 'Alt' will move windows slower.,"'Shift'を押したままにすると、ウィンドウが速く移動します。
+'Alt'を押し続けると、ウィンドウの移動が遅くなります。"
+Home,ホーム
+How to,使用方法
+How to enable,有効にする方法
+"How to use: Use the 'Spawn Mask' button to create objects that will hide parts of the window. Move masks around by holding the Trigger on them and dragging. Masks will show as white whilst in the cropping menu, but will be see-through once you close the menu.","マスクの使い方：
+
+「マスクを作成」 ボタンで ウインドウの部分を 隠すオブジェクトを 作成する。
+
+マスクを トリガーで捕まえて 移動する。
+
+クロップメニューで マスクは白いけど、 メニューを 閉じると透明になる。"
+Hue Range,色相範囲
+I understand,わかった
+Icon,アイコン
+Icon must be 100x100 pixels!,アイコンは100x100ピクセルである必要があります！
+Ignore,無視
+Important information for Oculus users,Oculusユーザー向けの重要な情報
+Individual,個人
+Input,入力
+Interested,興味がある
+Interface,インターフェース
+Invalid Join Link! Maybe the event host didn't set one?,無効な参加リンク！たぶん、イベントの主催者はそれを設定しなかったのですか？
+"Invalid event category, please select one!",イベントカテゴリが無効です。1つ選択してください。
+"Invalid event description, must not be empty!",イベントの説明が無効です。空にしないでください。
+"Invalid event join instructions, must not be empty!",無効なイベント参加手順。空にしないでください。
+"Invalid event name, must not be empty!",イベント名が無効です。空にしないでください。
+"Invalid event time, must be within 14 days!",イベント時間は無効です。14日以内である必要があります。
+"Invalid event time, must not be in the past!",無効なイベント時間、過去であってはなりません！
+It may take some time for minutes remaining to appear!,残り分が表示されるまでに時間がかかる場合があります！
+Join,加入
+"Join Instructions too long, please limit to 400 characters.",参加手順が長すぎます。400文字に制限してください。
+Join Instructions:,参加手順
+Join URL (Optional),結合URL（オプション）
+Keep holding grip to move,握り続けると移動する
+Keep visible,見えるようにする
+Keyboard,キーボード
+Keyboard controls,キーボード/ジョイスティックコントロール
+Known Applications,知っている アプリケーション
+Language selection is not possible for 'Speech Proxy'.,「音声プロキシ」では言語を選択できません。
+Larger,大きくする
+"Later, you can click 'Edit Shortcuts' to create shortcuts for displaying specific applications.",後で、[ショートカットの編集]をクリックして、特定のアプリケーションを表示するためのショートカットを作成できます。
+Left,左
+Left click,左クリック
+Legacy Edit Mode,レガシー編集モード
+Loading...,読み込んでいます...
+Look at your left wrist,左手首を見てください
+Looks like there's no events at the moment! Maybe create one?,"現在イベントはないようです！
+たぶん作成しますか？"
+Low Battery,ローバッテリー
+Macros,マクロ
+Main,メイン
+Maintain width,幅を維持する
+Master,マスター
+Media Applications,メディア アプリケーション
+Media controls,メディアコントロール
+Media profanity filter,メディアの冒涜フィルタ
+Menu Back,メニュー戻る
+Menu Controls,メニューコントロール
+Menu Down,メニューダウン
+Menu Left,メニュー左
+Menu Right,メニュー右
+Menu Select,メニュー選択
+Menu Up,メニューアップ
+Menu Visible,メニューが表示されます
+Minimize menu on open,キーボードがあるときに メニューを非表示
+Minimize on startup:,起動時に最小化：
+Misc,その他
+More will add to this menu as you use different media applications.,さまざまなメディア アプリケーションを使用すると、このメニューにさらに追加されます。
+Mouse smoothing,マウスのスムージング
+Move all windows,すべてのウィンドウを移動する
+Move delay,移動遅延
+Move window,ウィンドウを移動
+Name,名前
+"Name too long, please limit to 60 characters.",名前が長すぎます。60文字に制限してください。
+"Navigate the menu by using the arrow keys, Enter, and Backspace.","矢印キー、Enter、およびBackspaceを使用してメニューをナビゲートします。
+
+"
+Navigation, ナビゲート 
+Need help? Position the window so that the center of it is close to the attach point. The circle around the attach point will shrink as you move the window closer.,"お困りですか？
+ウィンドウの中心がアタッチポイントに近づくように配置します。ウィンドウを近づけると、アタッチポイントを囲む円は小さくなります。"
+Next,次
+Night light,夜モード
+Night light will enable with the Windows night light,常夜灯はWindowsの常夜灯で有効になります
+No,番号
+"No events found, maybe create one?",イベントが見つかりません。作成しますか？
+None,無し
+Not Interested,興味がない
+Not starting?,開始しませんか？
+"Not using VR controllers? When in VR, press F8!",VRコントローラを利用していない場合、VRにF8キーを押す。
+Note3,ノート
+Notifications Enabled,通知を有効にする
+Notifications opacity,通知の不透明度
+Notifications size,通知サイズ
+"OVR Toolkit is starting, please wait!",OVR Toolkitが起動しています、お待ちください。
+OVR Toolkit isn't running as admin! The program may not function correctly.,OVR Toolkitは管理者として実行されていません！プログラムが正しく実行しない場合があります。
+Okay,はい
+"Once selected, release the 'Ctrl' key to start moving the window.",選択したら、「Ctrl」キーを放してウィンドウの移動を開始します。
+Only block input in Edit Mode,編集モードだけで 入力をブロック
+Opacity,不透明度
+Open link,リンクを開く
+Open log folder,ログフォルダを開く
+Opened link in your browser.,ブラウザで開いたリンク。
+Orientation,オリエンテーション
+Overlay Quality,オーバーレイ品質
+Overlay quality is determined automatically by SteamVR with no user or developer option to change it.,オーバーレイの品質は SteamVR によって自動的に決定され、ユーザーまたは開発者がそれを変更するオプションはありません。
+Overlay quality reduced - Click for more details,オーバーレイの品質が低下しました - 詳細についてはクリックしてください
+Performance stats,パフォーマンス統計
+Persist between profiles,プロファイル間で持続
+Pick colour,色を選ぶ
+Picking...,ピッキング...
+Pin window,見えるようにする
+Play Pause,再生/一時停止
+Play music in loading screen,ロード画面で音楽を再生
+Player Limit,プレイヤー制限
+Player limit too high! 150 max.,プレイヤー制限が高すぎます！最大150
+Player limit too low!,プレイヤー制限が低すぎます！
+Please attach the 'Player' and 'Player-Last' log files from the following folder to help fix your issue:,問題の修正に役立てるために、次のフォルダから「Player」および「Player-Last」ログファイルを添付してください。
+Please do not hesitate to join us on Discord to provide feedback or suggestions to improve the experience!,体験を改善するためのフィードバックや提案を提供するために、Discordに参加することを躊躇しないでください！
+"Please join us on Discord for the fastest response, or, post on the Steam Discussions!",最速の応答を得るためにDiscordに参加するか、Steamディスカッションに投稿してください！
+"Please join us on Discord, or, check out the video tutorial to learn more about using OVR Toolkit.",Discordに参加するか、ビデオチュートリアルをチェックして、OVRToolkitの使用方法の詳細を確認してください。
+Please put your headset on to start using OVR Toolkit!,ヘッドセットを 被ってOVR Toolkitを 使い始めよう！
+Please restart SteamVR!,SteamVR を再起動してください!
+Presets,プリセット
+Press 'Enter' to close the tutorial.,'Enter'を押してチュートリアルを閉じます。
+Press Backspace to finish,Backspaceキー を押して完了
+Press Backspace to stop moving.,移動を停止するには、Backspaceキーを押します。
+"Press Delete to delete a window, Insert to bring the window into view.",「削除」を押してウィンドウを削除し、「挿入」を押してウィンドウを表示し、「Enter」/「Return」を押してウィンドウを選択します。
+Press F to favourite,Fを押してお気に入りに追加
+Press F8 key,F8キーを押す
+Previous,前
+Profile switcher,プロファイルスイッチャー
+Profiles,プロファイル
+Quit,終了
+Re-center,再センタリング
+Re-center window,ウィンドウを中央に戻す
+"Re-center window will position windows relative to your headset each time you toggle your overlays, useful when using 'playspace mover' applications.",Re-center window は、オーバーレイを切り替えるたびに、ヘッドセットを基準にしてウィンドウを配置します。これは、「プレイスペース ムーバー」アプリケーションを使用する場合に便利です。
+Ready to use,使用する準備ができて
+Rebind,再バインド
+Recenter snap angle,スナップ角度を再中心化
+Recenter windows,最近のウィンドウ
+Refresh list,リストを更新
+Remember UI minimized state,UIの最小化状態を記憶する
+Report bug,バグを報告する
+Requires manual setup,手動セットアップが必要
+Reset,リセット
+Reset UI location,UIの場所をリセット
+Reset UI position,UIの位置をリセット
+Reset keyboard position,キーボードの位置をリセットする
+Reset settings,設定をリセット
+Reset to default keyboard,デフォルトのキーボードにリセット
+Reset tutorial,チュートリアルをリセット
+Resize,サイズ変更
+Resize menu,メニューのサイズ変更
+Resize window,ウィンドウの サイズを 変更
+Resize wrist overlay,手首オーバーレイのサイズを変更する
+Restart Application,アプリケーションを再起動します
+Right,右
+Right click,右クリック
+Rotate left,左に回転
+Rotate right,右に回る
+Running,ランニング
+Saturation Range,飽和範囲
+Save,保存
+Save changes,変更内容を保存
+Saved,保存しました
+Scroll down,下へスクロール
+Scroll up,スクロールアップする
+Search,検索
+Select,選択する
+Select Icon,アイコンを選択
+Select Media Applications,メディア アプリケーションの選択
+Select Window,ウィンドウを選択
+Select a window,ウィンドウを選択
+Select a window by clicking on it to use Window Settings!,ウィンドウ設定を 使うには  ウィンドウをクリックで 選択。
+Select content,コンテンツを選択
+Select keyboard,キーボードを選択
+Select microphone,マイクを選択
+Select wrist watch size,腕時計のサイズを選択
+Select your preffered wrist watch size,好みの腕時計のサイズを選択してください
+Selected file is not a PNG file!,選択したファイルはPNGファイルではありません！
+Set as default,デフォルトとして設定
+Set contents,内容を設定
+Settings,設定
+Setup hotkeys for faster window switching!,ウインドウの切替をもっとはやくできるためにホットキーを設定しよう！
+Setup wrist macros,手首マクロを設定する
+Show and hide your windows by double pressing both 'A' buttons.,両方の「A」ボタンを2回押して、ウィンドウを表示および非表示にします。
+Show and hide your windows by double pressing both 'Grip' buttons.,両方の「グリップ」ボタンを2回押して、ウィンドウを表示および非表示にします。
+Show events on game start,ゲーム開始時にイベントを表示する
+Show in front,常にトップに
+Show playing media in Chatbox,チャットボックスで再生中のメディアを表示する
+Side-by-Side 3D Crossed,サイドバイサイド3Dクロス
+Side-by-Side 3D Parralel,サイドバイサイド3Dパラレル
+Simple,単純
+Skip tutorial,チュートリアルをスキップ
+Smaller,小さくする
+Social,社交
+"Sounds, word suggestions, rotation lock, microphone",音、単語の提案、回転ロック、マイク
+Spawn Mask,マスクを作成
+Spawn Window,ウィンドウを 作成
+Spawn another window from the 'Window List' menu.,「ウィンドウリスト」メニューから別のウィンドウを生成します。
+Spawn new window,新しいウィンドウを作成
+Speech API,スピーチAPI
+Speech language,音声言語
+Start,開始
+Start a game to see Events!,ゲームを開始してイベントを見てください！
+Start application,アプリケーションを開始
+Start tutorial,チュートリアルを開始
+Started:,開始した：
+Startup complete! You can now use OVR Toolkit!,起動完了！ OVR ツールキットを使用できるようになりました。
+Startup errors,起動エラー
+Startup messages,起動メッセージ
+Steam Workshop,Steamワークショップ
+Subscribe,サブスクライブ
+Subscribed Items,サブスクリプション中のアイテム
+Switch Profile,プロファイルの切り替え
+Switch Window,ウインドウ 変更
+Switch menu hand,メニュー手を変更
+Switch overlay hand,オーバーレ手を変更
+Tab into game,ゲームにタブで移動
+Tab out on window toggle:,ウィンドウトグルでタブアウト：
+Thank you for choosing OVR Toolkit!,OVR Toolkitを お選びいただき、 ありがとうございます。
+The currently selected window is shown by a yellow border around it.,現在選択されているウィンドウは、その周りに黄色の境界線で表示されます。
+"The tutorial is now complete, we hope you enjoy your time using OVR Toolkit!",これでチュートリアルが完了しました。OVRToolkitをお楽しみください。
+There are upcoming events for this game!,このゲームの今後のイベントがあります！
+These will appear on your wristwatch in VR,これらはVRの腕時計に表示されます
+This fix will link your SteamVR Resolution to your overlay supersampling. (Up to 150 ),
+"This will set the default settings used on all newly spawned windows, are you sure?",これにより、新しく生成されたすべてのウィンドウで使用されるデフォルト設定が設定されます。よろしいですか?
+This workaround will trick SteamVR into thinking your PC is faster than it is so the overlay resolution will be increased.,この回避策により、SteamVR は PC が実際よりも高速であると認識し、オーバーレイの解像度が上がります。
+Those are the basics of using OVR Toolkit! Find more info on our wiki or on our Discord!,これはOVR Toolkitの基本です！  WikiまたはDiscordで 詳細をご覧ください！
+Tilt,傾き
+Tilt Back,後ろに傾ける
+Tilt Down,下に傾く
+Tilt Forward,前傾
+Tilt Left,左に傾く
+Tilt Right,右に傾く
+Tilt Up,上に傾く
+Time visible,目に見える時間
+Timer,タイマー
+Timer cancelled,タイマーがキャンセルされました
+Timer set,タイマーセット
+"To configure, recenter your view in game then open Edit Mode","ウィンドウが正しい位置になるまで、 ビューをリセットする。
+
+「R」を押して ウィンドウの位置を 再読み込む。
+
+Enterキーで カリブレーションを完了。  （または、 VRコントローラーで 編集モードを閉じる"
+"To move windows, hold the grip button near them whilst in 'Edit Mode'.",ウィンドウを移動するには、 「編集モード」でウィンドウの近くで グリップボタンを押し続く。
+"To resize a window, hold both 'A' buttons and move your hands apart or together.",ウィンドウのサイズを変更するには、両方の「A」ボタンを押したまま、手を離したり一緒に動かしたりします。
+"To resize a window, hold both 'Grip' buttons and move your hands apart or together.",ウィンドウのサイズを変更するには、両方の[グリップ]ボタンを押したまま、手を離したり一緒に動かしたりします。
+"To select which window you are editing open 'Window List', navigate to the window you would like to edit, then press 'Enter'.",編集するウィンドウを選択するには、[ウィンドウリスト]を開き、編集するウィンドウに移動して、[Enter]キーを押します。
+To toggle 'Edit Mode' double press both grip buttons at the same time.,両方のグリップかAボタンを二回押すと「編集モード」がトグルする。
+Toggle,トグル
+Toggle 'Simulator Mode' menu:,「シミュレータモード」メニューを切り替えます。
+Toggle Windows,ウィンドウの切り替え
+Top,上
+"Touchscreen input, touchpad scrolling, grip resizing",タッチスクリーン入力、タッチパッドのスクロール、グリップのサイズ変更
+TouchscreenOff,タッチスクリーンエミュレーションが無効
+TouchscreenOn,タッチスクリーンエミュレーションが有効
+Tracked device,デバイス
+Trigger down,トリガーダウン
+Trigger up,トリガーアップ
+Tutorial,チュートリアル
+Tutorial finished,チュートリアルが終了しました
+Unsubscribe,サブスクリプションの解除
+Unsupported,サポートされていない
+Up,上
+Upcoming Event,これから起きる出来事
+Upcoming Events,今後のイベント
+Update Event,更新イベント
+Use 24 hour time,24時間形式を使用
+"Use arrow keys to navigate the menu. Enter to select, Backspace to go back.",矢印キーでメニューをナビゲートする。 Enterキーで選択、Backspaceキーで戻る。
+Use both touchpads,両方のタッチパッドを使用する
+Use compact UI,コンパクトUIを使用
+Use grip window resizing,グリップをウィンドウのサイズ変更に使用する
+Use media keys,メディアキーを使用する
+Use right arrow key to access favourite windows.,右矢印キーでお気に入りのウィンドウにアクセスできます。
+Use the on-screen movement controls to manipulate the window's position.,画面上の移動コントロールを使用して、ウィンドウの位置を操作します。
+Use touchpad resizing,タッチパッドをサイズ変更に使用
+Use touchpad scrolling,タッチパッドをスクロールに使用
+Use touchpad window moving,タッチパッドをウィンドウの移動に使用
+Use touchscreen input,タッチパッドをタッチスクリーン入力に使用
+VIVE Wireless stats,VIVEワイヤレス統計
+VR Controllers,VRコントローラー
+Vertical,垂直
+Video guides:,ビデオガイド：
+Visibility,可視
+Voice Input,音声入力
+"Voice recognition can be stopped and started by the voice input bar on top of the keyboard. For VRChat Chatbox output, ensure you click the 'VRC' button!",音声認識は、キーボード上部の音声入力バーで停止および開始できます。 VRChat チャットボックスの出力については、必ず [VRC] ボタンをクリックしてください。
+Volume,ボリューム
+Welcome to OVR Toolkit!,OVR Toolkitへようこそ！
+"Whilst holding a window, push up or down on the Joystick to push the window forwards or backwards.",ウィンドウを押したまま、ジョイスティックを上下に押して、ウィンドウを前後に押します。
+"Whilst holding a window, push up or down on the Trackpad to push the window forwards or backwards.",ウィンドウを押したまま、トラックパッドを上下に押して、ウィンドウを前後に押します。
+Wiki,Wiki
+Window Cropping,ウィンドウクロッピング
+Window List,ウィンドウリスト
+Window Settings,ウィンドウ設定
+Window docking,ウィンドウドッキング
+Window movement,窓の動き
+Window moving when not in Edit Mode,編集モードでないときにウィンドウが移動する
+Window selection,ウィンドウの選択
+Windows,ウインドウ
+Windows face headset,ウインドウはヘッドセットに向かう
+Windows notifications,Windows通知
+Workshop Subscriptions,ワークショップのサブスクリプション
+Would you like to take a short tutorial on how it works?,それがどのように機能するかについての短いチュートリアルを受講しますか？
+Wristwatch,時計
+Yes,はい
+You can keep windows visible by clicking the 'Pin' icon below them when in 'Edit Mode'.,「編集モード」でウィンドウの下にある「ピン」アイコンをクリックすると、ウィンドウを表示したままにすることができます。
+Your SteamVR Resolution will be linked to your overlay resolution. (Up to 150 ),SteamVR 解像度はオーバーレイ解像度にリンクされます。 (最大150%)
+"Your event starts in 5 minutes, please ensure your Join Instructions are set!",イベントは5分で始まります。参加手順が設定されていることを確認してください！
